@@ -1,0 +1,628 @@
+{
+  "urdf": "/home/chenyc/codes/linkerhand_l20/linkerhand_l20.urdf",
+  "tol_contain_um": 1.0,
+  "rows": [
+    {
+      "link": "hand_base_link",
+      "visual_file": "meshes/hand_base_link.STL",
+      "collision_file": "meshes/collisions/hand_base_link.STL",
+      "visual_faces": 42908,
+      "collision_faces": 3854,
+      "reduction": 11.133367929423976,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 0.0006922599441007599,
+      "euler_number": 2,
+      "penetration_um": 0.0007205036289814615,
+      "offset_mean_mm": 3.0502953072188097,
+      "offset_p95_mm": 8.558390491059143,
+      "offset_max_mm": 18.85643095031088,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "pinky_metacarpals",
+      "visual_file": "meshes/pinky_metacarpals.STL",
+      "collision_file": "meshes/collisions/pinky_metacarpals.STL",
+      "visual_faces": 1414,
+      "collision_faces": 444,
+      "reduction": 3.184684684684685,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 2.6948135119752526e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006263113673521392,
+      "offset_mean_mm": 0.8124936531796891,
+      "offset_p95_mm": 2.9069885669112336,
+      "offset_max_mm": 4.005510924982524,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "pinky_proximal",
+      "visual_file": "meshes/pinky_proximal.STL",
+      "collision_file": "meshes/collisions/pinky_proximal.STL",
+      "visual_faces": 16145,
+      "collision_faces": 1022,
+      "reduction": 15.797455968688846,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.2992096146585824e-05,
+      "euler_number": 2,
+      "penetration_um": 0.025780621443205476,
+      "offset_mean_mm": 1.1635098986215282,
+      "offset_p95_mm": 3.2997237331626565,
+      "offset_max_mm": 8.338276636123691,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "pinky_middle",
+      "visual_file": "meshes/pinky_middle.STL",
+      "collision_file": "meshes/collisions/pinky_middle.STL",
+      "visual_faces": 14938,
+      "collision_faces": 2184,
+      "reduction": 6.839743589743589,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 6.987244182747063e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006693213804379039,
+      "offset_mean_mm": 0.6644664636201347,
+      "offset_p95_mm": 1.895649664844731,
+      "offset_max_mm": 3.123748679816694,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "pinky_distal",
+      "visual_file": "meshes/pinky_distal.STL",
+      "collision_file": "meshes/collisions/pinky_distal.STL",
+      "visual_faces": 19016,
+      "collision_faces": 6904,
+      "reduction": 2.754345307068366,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 5.724508157413533e-06,
+      "euler_number": 2,
+      "penetration_um": 0.002058264753079797,
+      "offset_mean_mm": 0.607101430898342,
+      "offset_p95_mm": 2.181658966006941,
+      "offset_max_mm": 7.024554539118073,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "ring_metacarpals",
+      "visual_file": "meshes/ring_metacarpals.STL",
+      "collision_file": "meshes/collisions/ring_metacarpals.STL",
+      "visual_faces": 1414,
+      "collision_faces": 444,
+      "reduction": 3.184684684684685,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 2.6948135119752526e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006263113673521392,
+      "offset_mean_mm": 0.8124936531796891,
+      "offset_p95_mm": 2.9069885669112336,
+      "offset_max_mm": 4.005510924982524,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "ring_proximal",
+      "visual_file": "meshes/ring_proximal.STL",
+      "collision_file": "meshes/collisions/ring_proximal.STL",
+      "visual_faces": 16145,
+      "collision_faces": 1024,
+      "reduction": 15.7666015625,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.2992094657745726e-05,
+      "euler_number": 2,
+      "penetration_um": 0.025780621443205476,
+      "offset_mean_mm": 1.1635036150956428,
+      "offset_p95_mm": 3.294787515003245,
+      "offset_max_mm": 8.338273130818411,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "ring_middle",
+      "visual_file": "meshes/ring_middle.STL",
+      "collision_file": "meshes/collisions/ring_middle.STL",
+      "visual_faces": 14940,
+      "collision_faces": 2192,
+      "reduction": 6.815693430656935,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 6.9872443957318144e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006517965013205784,
+      "offset_mean_mm": 0.6649985987156716,
+      "offset_p95_mm": 1.9046729936996663,
+      "offset_max_mm": 3.1237466644915455,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "ring_distal",
+      "visual_file": "meshes/ring_distal.STL",
+      "collision_file": "meshes/collisions/ring_distal.STL",
+      "visual_faces": 19016,
+      "collision_faces": 6904,
+      "reduction": 2.754345307068366,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 5.724508146756983e-06,
+      "euler_number": 2,
+      "penetration_um": 0.002058264753079797,
+      "offset_mean_mm": 0.6071536987533249,
+      "offset_p95_mm": 2.181658966006941,
+      "offset_max_mm": 7.025483226730836,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "middle_metacarpals",
+      "visual_file": "meshes/middle_metacarpals.STL",
+      "collision_file": "meshes/collisions/middle_metacarpals.STL",
+      "visual_faces": 1414,
+      "collision_faces": 444,
+      "reduction": 3.184684684684685,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 2.6948135119752526e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006263113673521392,
+      "offset_mean_mm": 0.8124936531796891,
+      "offset_p95_mm": 2.9069885669112336,
+      "offset_max_mm": 4.005510924982524,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "middle_proximal",
+      "visual_file": "meshes/middle_proximal.STL",
+      "collision_file": "meshes/collisions/middle_proximal.STL",
+      "visual_faces": 16151,
+      "collision_faces": 1024,
+      "reduction": 15.7724609375,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.299209532273474e-05,
+      "euler_number": 2,
+      "penetration_um": 0.025780621443205476,
+      "offset_mean_mm": 1.15143002234977,
+      "offset_p95_mm": 3.230831303453769,
+      "offset_max_mm": 8.33827715149855,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "middle_middle",
+      "visual_file": "meshes/middle_middle.STL",
+      "collision_file": "meshes/collisions/middle_middle.STL",
+      "visual_faces": 14938,
+      "collision_faces": 2190,
+      "reduction": 6.821004566210045,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 6.987244542557033e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006882581830847112,
+      "offset_mean_mm": 0.6647779594674215,
+      "offset_p95_mm": 1.89730592141518,
+      "offset_max_mm": 3.123749046700314,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "middle_distal",
+      "visual_file": "meshes/middle_distal.STL",
+      "collision_file": "meshes/collisions/middle_distal.STL",
+      "visual_faces": 19016,
+      "collision_faces": 6902,
+      "reduction": 2.7551434366850187,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 5.724507814888512e-06,
+      "euler_number": 2,
+      "penetration_um": 0.002058264753079797,
+      "offset_mean_mm": 0.6059855660444208,
+      "offset_p95_mm": 2.1789053404463368,
+      "offset_max_mm": 7.02828478558089,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "index_metacarpals",
+      "visual_file": "meshes/index_metacarpals.STL",
+      "collision_file": "meshes/collisions/index_metacarpals.STL",
+      "visual_faces": 1414,
+      "collision_faces": 444,
+      "reduction": 3.184684684684685,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 2.6948135119752526e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006263113673521392,
+      "offset_mean_mm": 0.8124936531796891,
+      "offset_p95_mm": 2.9069885669112336,
+      "offset_max_mm": 4.005510924982524,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "index_proximal",
+      "visual_file": "meshes/index_proximal.STL",
+      "collision_file": "meshes/collisions/index_proximal.STL",
+      "visual_faces": 16149,
+      "collision_faces": 1028,
+      "reduction": 15.709143968871595,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.2992095429148421e-05,
+      "euler_number": 2,
+      "penetration_um": 0.025780621443205476,
+      "offset_mean_mm": 1.1640335916791957,
+      "offset_p95_mm": 3.2393489280778973,
+      "offset_max_mm": 8.337267445164324,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "index_middle",
+      "visual_file": "meshes/index_middle.STL",
+      "collision_file": "meshes/collisions/index_middle.STL",
+      "visual_faces": 14938,
+      "collision_faces": 2198,
+      "reduction": 6.796178343949045,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 6.987244166866749e-06,
+      "euler_number": 2,
+      "penetration_um": 0.0006490389536581431,
+      "offset_mean_mm": 0.6637849036126168,
+      "offset_p95_mm": 1.8973815325848502,
+      "offset_max_mm": 3.1237467688126017,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "index_distal",
+      "visual_file": "meshes/index_distal.STL",
+      "collision_file": "meshes/collisions/index_distal.STL",
+      "visual_faces": 19016,
+      "collision_faces": 6904,
+      "reduction": 2.754345307068366,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 5.7245079786232984e-06,
+      "euler_number": 2,
+      "penetration_um": 0.002058264753079797,
+      "offset_mean_mm": 0.6060215507134972,
+      "offset_p95_mm": 2.181220462643434,
+      "offset_max_mm": 7.024554539118073,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "visual_file": "meshes/thumb_metacarpals_base2.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals_base2.STL",
+      "visual_faces": 9650,
+      "collision_faces": 1048,
+      "reduction": 9.208015267175572,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 3.3784459790722606e-05,
+      "euler_number": 2,
+      "penetration_um": 0.0007196620868676895,
+      "offset_mean_mm": 2.3220906628496767,
+      "offset_p95_mm": 5.947343886805172,
+      "offset_max_mm": 8.822007087102236,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "visual_file": "meshes/thumb_metacarpals_base1.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals_base1.STL",
+      "visual_faces": 5732,
+      "collision_faces": 812,
+      "reduction": 7.059113300492611,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.337317257422596e-05,
+      "euler_number": 2,
+      "penetration_um": 0.0008075536185939147,
+      "offset_mean_mm": 1.7586064904742214,
+      "offset_p95_mm": 5.064585703034291,
+      "offset_max_mm": 8.497718674294985,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "thumb_metacarpals",
+      "visual_file": "meshes/thumb_metacarpals.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals.STL",
+      "visual_faces": 20932,
+      "collision_faces": 7330,
+      "reduction": 2.855661664392906,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 5.4278970211940726e-05,
+      "euler_number": 2,
+      "penetration_um": 0.0006816702133316532,
+      "offset_mean_mm": 1.1631976697545265,
+      "offset_p95_mm": 6.941300388094949,
+      "offset_max_mm": 13.637254149466633,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "thumb_proximal",
+      "visual_file": "meshes/thumb_proximal.STL",
+      "collision_file": "meshes/collisions/thumb_proximal.STL",
+      "visual_faces": 13530,
+      "collision_faces": 4196,
+      "reduction": 3.224499523355577,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 1.2892787985715257e-05,
+      "euler_number": 2,
+      "penetration_um": 0.0007142043744606807,
+      "offset_mean_mm": 0.8351961842424585,
+      "offset_p95_mm": 3.789135098466199,
+      "offset_max_mm": 8.592300776299721,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    },
+    {
+      "link": "thumb_distal",
+      "visual_file": "meshes/thumb_distal.STL",
+      "collision_file": "meshes/collisions/thumb_distal.STL",
+      "visual_faces": 22414,
+      "collision_faces": 7982,
+      "reduction": 2.8080681533450265,
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume_m3": 8.565640819565975e-06,
+      "euler_number": 2,
+      "penetration_um": 0.05051241939307838,
+      "offset_mean_mm": 0.7784274808957032,
+      "offset_p95_mm": 4.152665320239379,
+      "offset_max_mm": 7.911711368129376,
+      "bbox_excess_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bbox_deficit_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "problems": []
+    }
+  ],
+  "failures": [],
+  "totals": {
+    "visual_faces": 321230,
+    "collision_faces": 67474,
+    "reduction": 4.760796751341258
+  }
+}

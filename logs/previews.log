@@ -1,0 +1,552 @@
+00:00.475  render           | Saved: 'logs/previews/hand_base_link__iso__visual.png'
+RENDER logs/previews/hand_base_link__iso__visual.png
+00:00.551  render           | Saved: 'logs/previews/hand_base_link__iso__collision.png'
+RENDER logs/previews/hand_base_link__iso__collision.png
+00:00.691  render           | Saved: 'logs/previews/hand_base_link__front__visual.png'
+RENDER logs/previews/hand_base_link__front__visual.png
+00:00.772  render           | Saved: 'logs/previews/hand_base_link__front__collision.png'
+RENDER logs/previews/hand_base_link__front__collision.png
+00:00.896  render           | Saved: 'logs/previews/hand_base_link__side__visual.png'
+RENDER logs/previews/hand_base_link__side__visual.png
+00:00.969  render           | Saved: 'logs/previews/hand_base_link__side__collision.png'
+RENDER logs/previews/hand_base_link__side__collision.png
+00:01.096  render           | Saved: 'logs/previews/hand_base_link__top__visual.png'
+RENDER logs/previews/hand_base_link__top__visual.png
+00:01.166  render           | Saved: 'logs/previews/hand_base_link__top__collision.png'
+RENDER logs/previews/hand_base_link__top__collision.png
+00:01.222  render           | Saved: 'logs/previews/pinky_metacarpals__iso__visual.png'
+RENDER logs/previews/pinky_metacarpals__iso__visual.png
+00:01.278  render           | Saved: 'logs/previews/pinky_metacarpals__iso__collision.png'
+RENDER logs/previews/pinky_metacarpals__iso__collision.png
+00:01.337  render           | Saved: 'logs/previews/pinky_metacarpals__front__visual.png'
+RENDER logs/previews/pinky_metacarpals__front__visual.png
+00:01.394  render           | Saved: 'logs/previews/pinky_metacarpals__front__collision.png'
+RENDER logs/previews/pinky_metacarpals__front__collision.png
+00:01.455  render           | Saved: 'logs/previews/pinky_metacarpals__side__visual.png'
+RENDER logs/previews/pinky_metacarpals__side__visual.png
+00:01.509  render           | Saved: 'logs/previews/pinky_metacarpals__side__collision.png'
+RENDER logs/previews/pinky_metacarpals__side__collision.png
+00:01.564  render           | Saved: 'logs/previews/pinky_metacarpals__top__visual.png'
+RENDER logs/previews/pinky_metacarpals__top__visual.png
+00:01.618  render           | Saved: 'logs/previews/pinky_metacarpals__top__collision.png'
+RENDER logs/previews/pinky_metacarpals__top__collision.png
+00:01.642  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:01.705  render           | Saved: 'logs/previews/pinky_proximal__iso__visual.png'
+RENDER logs/previews/pinky_proximal__iso__visual.png
+00:01.768  render           | Saved: 'logs/previews/pinky_proximal__iso__collision.png'
+RENDER logs/previews/pinky_proximal__iso__collision.png
+00:01.795  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:01.860  render           | Saved: 'logs/previews/pinky_proximal__front__visual.png'
+RENDER logs/previews/pinky_proximal__front__visual.png
+00:01.928  render           | Saved: 'logs/previews/pinky_proximal__front__collision.png'
+RENDER logs/previews/pinky_proximal__front__collision.png
+00:01.951  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:02.014  render           | Saved: 'logs/previews/pinky_proximal__side__visual.png'
+RENDER logs/previews/pinky_proximal__side__visual.png
+00:02.077  render           | Saved: 'logs/previews/pinky_proximal__side__collision.png'
+RENDER logs/previews/pinky_proximal__side__collision.png
+00:02.100  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:02.166  render           | Saved: 'logs/previews/pinky_proximal__top__visual.png'
+RENDER logs/previews/pinky_proximal__top__visual.png
+00:02.228  render           | Saved: 'logs/previews/pinky_proximal__top__collision.png'
+RENDER logs/previews/pinky_proximal__top__collision.png
+00:02.323  render           | Saved: 'logs/previews/pinky_middle__iso__visual.png'
+RENDER logs/previews/pinky_middle__iso__visual.png
+00:02.390  render           | Saved: 'logs/previews/pinky_middle__iso__collision.png'
+RENDER logs/previews/pinky_middle__iso__collision.png
+00:02.476  render           | Saved: 'logs/previews/pinky_middle__front__visual.png'
+RENDER logs/previews/pinky_middle__front__visual.png
+00:02.543  render           | Saved: 'logs/previews/pinky_middle__front__collision.png'
+RENDER logs/previews/pinky_middle__front__collision.png
+00:02.626  render           | Saved: 'logs/previews/pinky_middle__side__visual.png'
+RENDER logs/previews/pinky_middle__side__visual.png
+00:02.689  render           | Saved: 'logs/previews/pinky_middle__side__collision.png'
+RENDER logs/previews/pinky_middle__side__collision.png
+00:02.773  render           | Saved: 'logs/previews/pinky_middle__top__visual.png'
+RENDER logs/previews/pinky_middle__top__visual.png
+00:02.840  render           | Saved: 'logs/previews/pinky_middle__top__collision.png'
+RENDER logs/previews/pinky_middle__top__collision.png
+00:02.938  render           | Saved: 'logs/previews/pinky_distal__iso__visual.png'
+RENDER logs/previews/pinky_distal__iso__visual.png
+00:03.009  render           | Saved: 'logs/previews/pinky_distal__iso__collision.png'
+RENDER logs/previews/pinky_distal__iso__collision.png
+00:03.117  render           | Saved: 'logs/previews/pinky_distal__front__visual.png'
+RENDER logs/previews/pinky_distal__front__visual.png
+00:03.199  render           | Saved: 'logs/previews/pinky_distal__front__collision.png'
+RENDER logs/previews/pinky_distal__front__collision.png
+00:03.288  render           | Saved: 'logs/previews/pinky_distal__side__visual.png'
+RENDER logs/previews/pinky_distal__side__visual.png
+00:03.364  render           | Saved: 'logs/previews/pinky_distal__side__collision.png'
+RENDER logs/previews/pinky_distal__side__collision.png
+00:03.446  render           | Saved: 'logs/previews/pinky_distal__top__visual.png'
+RENDER logs/previews/pinky_distal__top__visual.png
+00:03.518  render           | Saved: 'logs/previews/pinky_distal__top__collision.png'
+RENDER logs/previews/pinky_distal__top__collision.png
+00:03.573  render           | Saved: 'logs/previews/ring_metacarpals__iso__visual.png'
+RENDER logs/previews/ring_metacarpals__iso__visual.png
+00:03.627  render           | Saved: 'logs/previews/ring_metacarpals__iso__collision.png'
+RENDER logs/previews/ring_metacarpals__iso__collision.png
+00:03.681  render           | Saved: 'logs/previews/ring_metacarpals__front__visual.png'
+RENDER logs/previews/ring_metacarpals__front__visual.png
+00:03.736  render           | Saved: 'logs/previews/ring_metacarpals__front__collision.png'
+RENDER logs/previews/ring_metacarpals__front__collision.png
+00:03.794  render           | Saved: 'logs/previews/ring_metacarpals__side__visual.png'
+RENDER logs/previews/ring_metacarpals__side__visual.png
+00:03.846  render           | Saved: 'logs/previews/ring_metacarpals__side__collision.png'
+RENDER logs/previews/ring_metacarpals__side__collision.png
+00:03.903  render           | Saved: 'logs/previews/ring_metacarpals__top__visual.png'
+RENDER logs/previews/ring_metacarpals__top__visual.png
+00:03.957  render           | Saved: 'logs/previews/ring_metacarpals__top__collision.png'
+RENDER logs/previews/ring_metacarpals__top__collision.png
+00:03.981  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:04.042  render           | Saved: 'logs/previews/ring_proximal__iso__visual.png'
+RENDER logs/previews/ring_proximal__iso__visual.png
+00:04.105  render           | Saved: 'logs/previews/ring_proximal__iso__collision.png'
+RENDER logs/previews/ring_proximal__iso__collision.png
+00:04.129  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:04.194  render           | Saved: 'logs/previews/ring_proximal__front__visual.png'
+RENDER logs/previews/ring_proximal__front__visual.png
+00:04.257  render           | Saved: 'logs/previews/ring_proximal__front__collision.png'
+RENDER logs/previews/ring_proximal__front__collision.png
+00:04.281  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:04.348  render           | Saved: 'logs/previews/ring_proximal__side__visual.png'
+RENDER logs/previews/ring_proximal__side__visual.png
+00:04.411  render           | Saved: 'logs/previews/ring_proximal__side__collision.png'
+RENDER logs/previews/ring_proximal__side__collision.png
+00:04.434  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:04.496  render           | Saved: 'logs/previews/ring_proximal__top__visual.png'
+RENDER logs/previews/ring_proximal__top__visual.png
+00:04.559  render           | Saved: 'logs/previews/ring_proximal__top__collision.png'
+RENDER logs/previews/ring_proximal__top__collision.png
+00:04.654  render           | Saved: 'logs/previews/ring_middle__iso__visual.png'
+RENDER logs/previews/ring_middle__iso__visual.png
+00:04.722  render           | Saved: 'logs/previews/ring_middle__iso__collision.png'
+RENDER logs/previews/ring_middle__iso__collision.png
+00:04.808  render           | Saved: 'logs/previews/ring_middle__front__visual.png'
+RENDER logs/previews/ring_middle__front__visual.png
+00:04.872  render           | Saved: 'logs/previews/ring_middle__front__collision.png'
+RENDER logs/previews/ring_middle__front__collision.png
+00:04.955  render           | Saved: 'logs/previews/ring_middle__side__visual.png'
+RENDER logs/previews/ring_middle__side__visual.png
+00:05.019  render           | Saved: 'logs/previews/ring_middle__side__collision.png'
+RENDER logs/previews/ring_middle__side__collision.png
+00:05.106  render           | Saved: 'logs/previews/ring_middle__top__visual.png'
+RENDER logs/previews/ring_middle__top__visual.png
+00:05.176  render           | Saved: 'logs/previews/ring_middle__top__collision.png'
+RENDER logs/previews/ring_middle__top__collision.png
+00:05.273  render           | Saved: 'logs/previews/ring_distal__iso__visual.png'
+RENDER logs/previews/ring_distal__iso__visual.png
+00:05.345  render           | Saved: 'logs/previews/ring_distal__iso__collision.png'
+RENDER logs/previews/ring_distal__iso__collision.png
+00:05.445  render           | Saved: 'logs/previews/ring_distal__front__visual.png'
+RENDER logs/previews/ring_distal__front__visual.png
+00:05.522  render           | Saved: 'logs/previews/ring_distal__front__collision.png'
+RENDER logs/previews/ring_distal__front__collision.png
+00:05.615  render           | Saved: 'logs/previews/ring_distal__side__visual.png'
+RENDER logs/previews/ring_distal__side__visual.png
+00:05.697  render           | Saved: 'logs/previews/ring_distal__side__collision.png'
+RENDER logs/previews/ring_distal__side__collision.png
+00:05.789  render           | Saved: 'logs/previews/ring_distal__top__visual.png'
+RENDER logs/previews/ring_distal__top__visual.png
+00:05.863  render           | Saved: 'logs/previews/ring_distal__top__collision.png'
+RENDER logs/previews/ring_distal__top__collision.png
+00:05.916  render           | Saved: 'logs/previews/middle_metacarpals__iso__visual.png'
+RENDER logs/previews/middle_metacarpals__iso__visual.png
+00:05.972  render           | Saved: 'logs/previews/middle_metacarpals__iso__collision.png'
+RENDER logs/previews/middle_metacarpals__iso__collision.png
+00:06.032  render           | Saved: 'logs/previews/middle_metacarpals__front__visual.png'
+RENDER logs/previews/middle_metacarpals__front__visual.png
+00:06.093  render           | Saved: 'logs/previews/middle_metacarpals__front__collision.png'
+RENDER logs/previews/middle_metacarpals__front__collision.png
+00:06.154  render           | Saved: 'logs/previews/middle_metacarpals__side__visual.png'
+RENDER logs/previews/middle_metacarpals__side__visual.png
+00:06.211  render           | Saved: 'logs/previews/middle_metacarpals__side__collision.png'
+RENDER logs/previews/middle_metacarpals__side__collision.png
+00:06.269  render           | Saved: 'logs/previews/middle_metacarpals__top__visual.png'
+RENDER logs/previews/middle_metacarpals__top__visual.png
+00:06.321  render           | Saved: 'logs/previews/middle_metacarpals__top__collision.png'
+RENDER logs/previews/middle_metacarpals__top__collision.png
+00:06.344  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:06.410  render           | Saved: 'logs/previews/middle_proximal__iso__visual.png'
+RENDER logs/previews/middle_proximal__iso__visual.png
+00:06.472  render           | Saved: 'logs/previews/middle_proximal__iso__collision.png'
+RENDER logs/previews/middle_proximal__iso__collision.png
+00:06.495  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:06.558  render           | Saved: 'logs/previews/middle_proximal__front__visual.png'
+RENDER logs/previews/middle_proximal__front__visual.png
+00:06.622  render           | Saved: 'logs/previews/middle_proximal__front__collision.png'
+RENDER logs/previews/middle_proximal__front__collision.png
+00:06.645  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:06.705  render           | Saved: 'logs/previews/middle_proximal__side__visual.png'
+RENDER logs/previews/middle_proximal__side__visual.png
+00:06.771  render           | Saved: 'logs/previews/middle_proximal__side__collision.png'
+RENDER logs/previews/middle_proximal__side__collision.png
+00:06.794  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:06.857  render           | Saved: 'logs/previews/middle_proximal__top__visual.png'
+RENDER logs/previews/middle_proximal__top__visual.png
+00:06.920  render           | Saved: 'logs/previews/middle_proximal__top__collision.png'
+RENDER logs/previews/middle_proximal__top__collision.png
+00:07.016  render           | Saved: 'logs/previews/middle_middle__iso__visual.png'
+RENDER logs/previews/middle_middle__iso__visual.png
+00:07.085  render           | Saved: 'logs/previews/middle_middle__iso__collision.png'
+RENDER logs/previews/middle_middle__iso__collision.png
+00:07.168  render           | Saved: 'logs/previews/middle_middle__front__visual.png'
+RENDER logs/previews/middle_middle__front__visual.png
+00:07.232  render           | Saved: 'logs/previews/middle_middle__front__collision.png'
+RENDER logs/previews/middle_middle__front__collision.png
+00:07.325  render           | Saved: 'logs/previews/middle_middle__side__visual.png'
+RENDER logs/previews/middle_middle__side__visual.png
+00:07.390  render           | Saved: 'logs/previews/middle_middle__side__collision.png'
+RENDER logs/previews/middle_middle__side__collision.png
+00:07.477  render           | Saved: 'logs/previews/middle_middle__top__visual.png'
+RENDER logs/previews/middle_middle__top__visual.png
+00:07.543  render           | Saved: 'logs/previews/middle_middle__top__collision.png'
+RENDER logs/previews/middle_middle__top__collision.png
+00:07.639  render           | Saved: 'logs/previews/middle_distal__iso__visual.png'
+RENDER logs/previews/middle_distal__iso__visual.png
+00:07.716  render           | Saved: 'logs/previews/middle_distal__iso__collision.png'
+RENDER logs/previews/middle_distal__iso__collision.png
+00:07.814  render           | Saved: 'logs/previews/middle_distal__front__visual.png'
+RENDER logs/previews/middle_distal__front__visual.png
+00:07.889  render           | Saved: 'logs/previews/middle_distal__front__collision.png'
+RENDER logs/previews/middle_distal__front__collision.png
+00:07.981  render           | Saved: 'logs/previews/middle_distal__side__visual.png'
+RENDER logs/previews/middle_distal__side__visual.png
+00:08.060  render           | Saved: 'logs/previews/middle_distal__side__collision.png'
+RENDER logs/previews/middle_distal__side__collision.png
+00:08.142  render           | Saved: 'logs/previews/middle_distal__top__visual.png'
+RENDER logs/previews/middle_distal__top__visual.png
+00:08.213  render           | Saved: 'logs/previews/middle_distal__top__collision.png'
+RENDER logs/previews/middle_distal__top__collision.png
+00:08.268  render           | Saved: 'logs/previews/index_metacarpals__iso__visual.png'
+RENDER logs/previews/index_metacarpals__iso__visual.png
+00:08.321  render           | Saved: 'logs/previews/index_metacarpals__iso__collision.png'
+RENDER logs/previews/index_metacarpals__iso__collision.png
+00:08.378  render           | Saved: 'logs/previews/index_metacarpals__front__visual.png'
+RENDER logs/previews/index_metacarpals__front__visual.png
+00:08.434  render           | Saved: 'logs/previews/index_metacarpals__front__collision.png'
+RENDER logs/previews/index_metacarpals__front__collision.png
+00:08.488  render           | Saved: 'logs/previews/index_metacarpals__side__visual.png'
+RENDER logs/previews/index_metacarpals__side__visual.png
+00:08.541  render           | Saved: 'logs/previews/index_metacarpals__side__collision.png'
+RENDER logs/previews/index_metacarpals__side__collision.png
+00:08.596  render           | Saved: 'logs/previews/index_metacarpals__top__visual.png'
+RENDER logs/previews/index_metacarpals__top__visual.png
+00:08.648  render           | Saved: 'logs/previews/index_metacarpals__top__collision.png'
+RENDER logs/previews/index_metacarpals__top__collision.png
+00:08.674  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:08.739  render           | Saved: 'logs/previews/index_proximal__iso__visual.png'
+RENDER logs/previews/index_proximal__iso__visual.png
+00:08.803  render           | Saved: 'logs/previews/index_proximal__iso__collision.png'
+RENDER logs/previews/index_proximal__iso__collision.png
+00:08.827  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:08.892  render           | Saved: 'logs/previews/index_proximal__front__visual.png'
+RENDER logs/previews/index_proximal__front__visual.png
+00:08.955  render           | Saved: 'logs/previews/index_proximal__front__collision.png'
+RENDER logs/previews/index_proximal__front__collision.png
+00:08.979  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:09.042  render           | Saved: 'logs/previews/index_proximal__side__visual.png'
+RENDER logs/previews/index_proximal__side__visual.png
+00:09.108  render           | Saved: 'logs/previews/index_proximal__side__collision.png'
+RENDER logs/previews/index_proximal__side__collision.png
+00:09.132  io.stl           | WARNING Removed 9 duplicate triangles during import
+00:09.194  render           | Saved: 'logs/previews/index_proximal__top__visual.png'
+RENDER logs/previews/index_proximal__top__visual.png
+00:09.258  render           | Saved: 'logs/previews/index_proximal__top__collision.png'
+RENDER logs/previews/index_proximal__top__collision.png
+00:09.350  render           | Saved: 'logs/previews/index_middle__iso__visual.png'
+RENDER logs/previews/index_middle__iso__visual.png
+00:09.418  render           | Saved: 'logs/previews/index_middle__iso__collision.png'
+RENDER logs/previews/index_middle__iso__collision.png
+00:09.505  render           | Saved: 'logs/previews/index_middle__front__visual.png'
+RENDER logs/previews/index_middle__front__visual.png
+00:09.570  render           | Saved: 'logs/previews/index_middle__front__collision.png'
+RENDER logs/previews/index_middle__front__collision.png
+00:09.658  render           | Saved: 'logs/previews/index_middle__side__visual.png'
+RENDER logs/previews/index_middle__side__visual.png
+00:09.727  render           | Saved: 'logs/previews/index_middle__side__collision.png'
+RENDER logs/previews/index_middle__side__collision.png
+Blender 5.1.2 (hash ec6e62d40fa9 built 2026-05-19 02:18:37)
+Timer 'STL Import' took 6.75 ms
+Timer 'STL Import' took 0.86 ms
+Timer 'STL Import' took 6.68 ms
+Timer 'STL Import' took 0.72 ms
+Timer 'STL Import' took 6.34 ms
+Timer 'STL Import' took 0.77 ms
+Timer 'STL Import' took 5.54 ms
+Timer 'STL Import' took 0.78 ms
+Timer 'STL Import' took 0.47 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 0.54 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.47 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.38 ms
+Timer 'STL Import' took 0.19 ms
+Timer 'STL Import' took 2.62 ms
+Timer 'STL Import' took 0.40 ms
+Timer 'STL Import' took 2.45 ms
+Timer 'STL Import' took 0.42 ms
+Timer 'STL Import' took 2.34 ms
+Timer 'STL Import' took 0.35 ms
+Timer 'STL Import' took 2.39 ms
+Timer 'STL Import' took 0.51 ms
+Timer 'STL Import' took 2.34 ms
+Timer 'STL Import' took 0.51 ms
+Timer 'STL Import' took 2.18 ms
+Timer 'STL Import' took 0.51 ms
+Timer 'STL Import' took 2.25 ms
+Timer 'STL Import' took 0.55 ms
+Timer 'STL Import' took 2.11 ms
+Timer 'STL Import' took 0.46 ms
+Timer 'STL Import' took 2.81 ms
+Timer 'STL Import' took 1.21 ms
+Timer 'STL Import' took 3.04 ms
+Timer 'STL Import' took 1.26 ms
+Timer 'STL Import' took 2.60 ms
+Timer 'STL Import' took 1.21 ms
+Timer 'STL Import' took 2.39 ms
+Timer 'STL Import' took 1.15 ms
+Timer 'STL Import' took 0.45 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.41 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.51 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 0.43 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 2.56 ms
+Timer 'STL Import' took 0.41 ms
+Timer 'STL Import' took 2.31 ms
+Timer 'STL Import' took 0.37 ms
+Timer 'STL Import' took 2.51 ms
+Timer 'STL Import' took 0.42 ms
+Timer 'STL Import' took 2.16 ms
+Timer 'STL Import' took 0.29 ms
+Timer 'STL Import' took 2.21 ms
+Timer 'STL Import' took 0.49 ms
+Timer 'STL Import' took 2.32 ms
+Timer 'STL Import' took 0.52 ms
+Timer 'STL Import' took 2.17 ms
+Timer 'STL Import' took 0.48 ms
+Timer 'STL Import' took 2.37 ms
+Timer 'STL Import' took 0.55 ms
+Timer 'STL Import' took 2.47 ms
+Timer 'STL Import' took 1.05 ms
+Timer 'STL Import' took 2.36 ms
+Timer 'STL Import' took 1.26 ms
+Timer 'STL Import' took 2.42 ms
+Timer 'STL Import' took 1.16 ms
+Timer 'STL Import' took 2.53 ms
+Timer 'STL Import' took 1.16 ms
+Timer 'STL Import' took 0.43 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.37 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 0.37 ms
+Timer 'STL Import' took 0.20 ms
+Timer 'STL Import' took 0.84 ms
+Timer 'STL Import' took 0.20 ms
+Timer 'STL Import' took 2.28 ms
+Timer 'STL Import' took 0.33 ms
+Timer 'STL Import' took 2.29 ms
+Timer 'STL Import' took 0.30 ms
+Timer 'STL Import' took 2.31 ms
+Timer 'STL Import' took 0.35 ms
+Timer 'STL Import' took 2.39 ms
+Timer 'STL Import' took 0.33 ms
+Timer 'STL Import' took 2.20 ms
+Timer 'STL Import' took 0.67 ms
+Timer 'STL Import' took 2.20 ms
+Timer 'STL Import' took 0.56 ms
+Timer 'STL Import' took 2.43 ms
+Timer 'STL Import' took 0.50 ms
+Timer 'STL Import' took 2.30 ms
+Timer 'STL Import' took 0.47 ms
+Timer 'STL Import' took 2.35 ms
+Timer 'STL Import' took 1.14 ms
+Timer 'STL Import' took 2.62 ms
+Timer 'STL Import' took 1.27 ms
+Timer 'STL Import' took 2.41 ms
+Timer 'STL Import' took 1.21 ms
+Timer 'STL Import' took 2.58 ms
+Timer 'STL Import' took 1.21 ms
+Timer 'STL Import' took 0.37 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 0.42 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.39 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 0.36 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 2.30 ms
+Timer 'STL Import' took 0.30 ms
+Timer 'STL Import' took 2.28 ms
+Timer 'STL Import' took 0.32 ms
+Timer 'STL Import' took 2.32 ms
+Timer 'STL Import' took 0.45 ms
+Timer 'STL Import' took 2.25 ms
+Timer 'STL Import' took 0.39 ms
+Timer 'STL Import' took 2.20 ms
+Timer 'STL Import' took 0.54 ms
+Timer 'STL Import' took 2.48 ms
+Timer 'STL Import' took 0.51 ms
+Timer 'STL Import' took 2.32 ms
+Timer 'STL Import' took 0.70 ms
+Time00:09.823  render           | Saved: 'logs/previews/index_middle__top__visual.png'
+RENDER logs/previews/index_middle__top__visual.png
+00:09.889  render           | Saved: 'logs/previews/index_middle__top__collision.png'
+RENDER logs/previews/index_middle__top__collision.png
+00:09.986  render           | Saved: 'logs/previews/index_distal__iso__visual.png'
+RENDER logs/previews/index_distal__iso__visual.png
+00:10.058  render           | Saved: 'logs/previews/index_distal__iso__collision.png'
+RENDER logs/previews/index_distal__iso__collision.png
+00:10.155  render           | Saved: 'logs/previews/index_distal__front__visual.png'
+RENDER logs/previews/index_distal__front__visual.png
+00:10.228  render           | Saved: 'logs/previews/index_distal__front__collision.png'
+RENDER logs/previews/index_distal__front__collision.png
+00:10.331  render           | Saved: 'logs/previews/index_distal__side__visual.png'
+RENDER logs/previews/index_distal__side__visual.png
+00:10.409  render           | Saved: 'logs/previews/index_distal__side__collision.png'
+RENDER logs/previews/index_distal__side__collision.png
+00:10.502  render           | Saved: 'logs/previews/index_distal__top__visual.png'
+RENDER logs/previews/index_distal__top__visual.png
+00:10.605  render           | Saved: 'logs/previews/index_distal__top__collision.png'
+RENDER logs/previews/index_distal__top__collision.png
+00:10.687  render           | Saved: 'logs/previews/thumb_metacarpals_base2__iso__visual.png'
+RENDER logs/previews/thumb_metacarpals_base2__iso__visual.png
+00:10.750  render           | Saved: 'logs/previews/thumb_metacarpals_base2__iso__collision.png'
+RENDER logs/previews/thumb_metacarpals_base2__iso__collision.png
+00:10.828  render           | Saved: 'logs/previews/thumb_metacarpals_base2__front__visual.png'
+RENDER logs/previews/thumb_metacarpals_base2__front__visual.png
+00:10.892  render           | Saved: 'logs/previews/thumb_metacarpals_base2__front__collision.png'
+RENDER logs/previews/thumb_metacarpals_base2__front__collision.png
+00:10.970  render           | Saved: 'logs/previews/thumb_metacarpals_base2__side__visual.png'
+RENDER logs/previews/thumb_metacarpals_base2__side__visual.png
+00:11.036  render           | Saved: 'logs/previews/thumb_metacarpals_base2__side__collision.png'
+RENDER logs/previews/thumb_metacarpals_base2__side__collision.png
+00:11.114  render           | Saved: 'logs/previews/thumb_metacarpals_base2__top__visual.png'
+RENDER logs/previews/thumb_metacarpals_base2__top__visual.png
+00:11.181  render           | Saved: 'logs/previews/thumb_metacarpals_base2__top__collision.png'
+RENDER logs/previews/thumb_metacarpals_base2__top__collision.png
+00:11.255  render           | Saved: 'logs/previews/thumb_metacarpals_base1__iso__visual.png'
+RENDER logs/previews/thumb_metacarpals_base1__iso__visual.png
+00:11.318  render           | Saved: 'logs/previews/thumb_metacarpals_base1__iso__collision.png'
+RENDER logs/previews/thumb_metacarpals_base1__iso__collision.png
+00:11.392  render           | Saved: 'logs/previews/thumb_metacarpals_base1__front__visual.png'
+RENDER logs/previews/thumb_metacarpals_base1__front__visual.png
+00:11.459  render           | Saved: 'logs/previews/thumb_metacarpals_base1__front__collision.png'
+RENDER logs/previews/thumb_metacarpals_base1__front__collision.png
+00:11.532  render           | Saved: 'logs/previews/thumb_metacarpals_base1__side__visual.png'
+RENDER logs/previews/thumb_metacarpals_base1__side__visual.png
+00:11.596  render           | Saved: 'logs/previews/thumb_metacarpals_base1__side__collision.png'
+RENDER logs/previews/thumb_metacarpals_base1__side__collision.png
+00:11.674  render           | Saved: 'logs/previews/thumb_metacarpals_base1__top__visual.png'
+RENDER logs/previews/thumb_metacarpals_base1__top__visual.png
+00:11.747  render           | Saved: 'logs/previews/thumb_metacarpals_base1__top__collision.png'
+RENDER logs/previews/thumb_metacarpals_base1__top__collision.png
+00:11.845  render           | Saved: 'logs/previews/thumb_metacarpals__iso__visual.png'
+RENDER logs/previews/thumb_metacarpals__iso__visual.png
+00:11.925  render           | Saved: 'logs/previews/thumb_metacarpals__iso__collision.png'
+RENDER logs/previews/thumb_metacarpals__iso__collision.png
+00:12.023  render           | Saved: 'logs/previews/thumb_metacarpals__front__visual.png'
+RENDER logs/previews/thumb_metacarpals__front__visual.png
+00:12.096  render           | Saved: 'logs/previews/thumb_metacarpals__front__collision.png'
+RENDER logs/previews/thumb_metacarpals__front__collision.png
+00:12.187  render           | Saved: 'logs/previews/thumb_metacarpals__side__visual.png'
+RENDER logs/previews/thumb_metacarpals__side__visual.png
+00:12.263  render           | Saved: 'logs/previews/thumb_metacarpals__side__collision.png'
+RENDER logs/previews/thumb_metacarpals__side__collision.png
+00:12.356  render           | Saved: 'logs/previews/thumb_metacarpals__top__visual.png'
+RENDER logs/previews/thumb_metacarpals__top__visual.png
+00:12.431  render           | Saved: 'logs/previews/thumb_metacarpals__top__collision.png'
+RENDER logs/previews/thumb_metacarpals__top__collision.png
+00:12.520  render           | Saved: 'logs/previews/thumb_proximal__iso__visual.png'
+RENDER logs/previews/thumb_proximal__iso__visual.png
+00:12.594  render           | Saved: 'logs/previews/thumb_proximal__iso__collision.png'
+RENDER logs/previews/thumb_proximal__iso__collision.png
+00:12.679  render           | Saved: 'logs/previews/thumb_proximal__front__visual.png'
+RENDER logs/previews/thumb_proximal__front__visual.png
+00:12.756  render           | Saved: 'logs/previews/thumb_proximal__front__collision.png'
+RENDER logs/previews/thumb_proximal__front__collision.png
+00:12.836  render           | Saved: 'logs/previews/thumb_proximal__side__visual.png'
+RENDER logs/previews/thumb_proximal__side__visual.png
+00:12.905  render           | Saved: 'logs/previews/thumb_proximal__side__collision.png'
+RENDER logs/previews/thumb_proximal__side__collision.png
+00:12.990  render           | Saved: 'logs/previews/thumb_proximal__top__visual.png'
+RENDER logs/previews/thumb_proximal__top__visual.png
+00:13.057  render           | Saved: 'logs/previews/thumb_proximal__top__collision.png'
+RENDER logs/previews/thumb_proximal__top__collision.png
+00:13.085  io.stl           | WARNING Removed 21 duplicate triangles during import
+00:13.157  render           | Saved: 'logs/previews/thumb_distal__iso__visual.png'
+RENDER logs/previews/thumb_distal__iso__visual.png
+00:13.233  render           | Saved: 'logs/previews/thumb_distal__iso__collision.png'
+RENDER logs/previews/thumb_distal__iso__collision.png
+00:13.258  io.stl           | WARNING Removed 21 duplicate triangles during import
+00:13.329  render           | Saved: 'logs/previews/thumb_distal__front__visual.png'
+RENDER logs/previews/thumb_distal__front__visual.png
+00:13.404  render           | Saved: 'logs/previews/thumb_distal__front__collision.png'
+RENDER logs/previews/thumb_distal__front__collision.png
+00:13.428  io.stl           | WARNING Removed 21 duplicate triangles during import
+00:13.496  render           | Saved: 'logs/previews/thumb_distal__side__visual.png'
+RENDER logs/previews/thumb_distal__side__visual.png
+00:13.569  render           | Saved: 'logs/previews/thumb_distal__side__collision.png'
+RENDER logs/previews/thumb_distal__side__collision.png
+00:13.593  io.stl           | WARNING Removed 21 duplicate triangles during import
+00:13.660  render           | Saved: 'logs/previews/thumb_distal__top__visual.png'
+RENDER logs/previews/thumb_distal__top__visual.png
+00:13.736  render           | Saved: 'logs/previews/thumb_distal__top__collision.png'
+RENDER logs/previews/thumb_distal__top__collision.png
+DONE
+r 'STL Import' took 2.27 ms
+Timer 'STL Import' took 0.53 ms
+Timer 'STL Import' took 2.35 ms
+Timer 'STL Import' took 1.18 ms
+Timer 'STL Import' took 2.48 ms
+Timer 'STL Import' took 1.14 ms
+Timer 'STL Import' took 2.33 ms
+Timer 'STL Import' took 1.18 ms
+Timer 'STL Import' took 2.49 ms
+Timer 'STL Import' took 1.16 ms
+Timer 'STL Import' took 1.57 ms
+Timer 'STL Import' took 0.33 ms
+Timer 'STL Import' took 1.47 ms
+Timer 'STL Import' took 0.38 ms
+Timer 'STL Import' took 1.58 ms
+Timer 'STL Import' took 0.37 ms
+Timer 'STL Import' took 1.45 ms
+Timer 'STL Import' took 0.32 ms
+Timer 'STL Import' took 1.11 ms
+Timer 'STL Import' took 0.24 ms
+Timer 'STL Import' took 1.02 ms
+Timer 'STL Import' took 0.25 ms
+Timer 'STL Import' took 1.09 ms
+Timer 'STL Import' took 0.26 ms
+Timer 'STL Import' took 1.13 ms
+Timer 'STL Import' took 0.24 ms
+Timer 'STL Import' took 2.70 ms
+Timer 'STL Import' took 1.77 ms
+Timer 'STL Import' took 2.58 ms
+Timer 'STL Import' took 1.15 ms
+Timer 'STL Import' took 2.78 ms
+Timer 'STL Import' took 1.21 ms
+Timer 'STL Import' took 2.62 ms
+Timer 'STL Import' took 1.24 ms
+Timer 'STL Import' took 2.09 ms
+Timer 'STL Import' took 0.80 ms
+Timer 'STL Import' took 2.02 ms
+Timer 'STL Import' took 0.75 ms
+Timer 'STL Import' took 1.96 ms
+Timer 'STL Import' took 0.80 ms
+Timer 'STL Import' took 1.81 ms
+Timer 'STL Import' took 0.73 ms
+Timer 'STL Import' took 3.76 ms
+Timer 'STL Import' took 1.42 ms
+Timer 'STL Import' took 3.73 ms
+Timer 'STL Import' took 1.19 ms
+Timer 'STL Import' took 3.76 ms
+Timer 'STL Import' took 1.58 ms
+Timer 'STL Import' took 3.80 ms
+Timer 'STL Import' took 1.41 ms
+
+Blender quit

@@ -1,0 +1,1112 @@
+{
+  "0": [
+    {
+      "link": "hand_base_link",
+      "tris": 852,
+      "bulge_mean_mm": 4.7711442475100165,
+      "bulge_p95_mm": 25.04557288130154,
+      "bulge_max_mm": 44.66282233476483,
+      "inset_max_mm": 26.425926053130453,
+      "conv_ratio": 0.55600104174726,
+      "vol_ratio_q_vs_hull": 1.2680271538678038
+    },
+    {
+      "link": "pinky_metacarpals",
+      "tris": 440,
+      "bulge_mean_mm": 0.003480206269401991,
+      "bulge_p95_mm": 0.008966924804640177,
+      "bulge_max_mm": 0.2087672799233293,
+      "inset_max_mm": 0.22342158917919294,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0003295064159892
+    },
+    {
+      "link": "pinky_proximal",
+      "tris": 458,
+      "bulge_mean_mm": 0.22022220072456827,
+      "bulge_p95_mm": 1.5010234975605332,
+      "bulge_max_mm": 3.2863162739036254,
+      "inset_max_mm": 2.823383609569652,
+      "conv_ratio": 0.6656605407894562,
+      "vol_ratio_q_vs_hull": 1.050675937201788
+    },
+    {
+      "link": "pinky_middle",
+      "tris": 502,
+      "bulge_mean_mm": 0.3652800834156769,
+      "bulge_p95_mm": 1.517589057572246,
+      "bulge_max_mm": 2.7827116772757114,
+      "inset_max_mm": 2.265816784113899,
+      "conv_ratio": 0.6016325199281162,
+      "vol_ratio_q_vs_hull": 1.1031308556224968
+    },
+    {
+      "link": "pinky_distal",
+      "tris": 3674,
+      "bulge_mean_mm": 0.049975943328097794,
+      "bulge_p95_mm": 0.2402874885311336,
+      "bulge_max_mm": 0.6358252659379326,
+      "inset_max_mm": 0.6066461478295182,
+      "conv_ratio": 0.506644944676392,
+      "vol_ratio_q_vs_hull": 1.0101676919401403
+    },
+    {
+      "link": "ring_metacarpals",
+      "tris": 440,
+      "bulge_mean_mm": 0.003480206269401991,
+      "bulge_p95_mm": 0.008966924804640177,
+      "bulge_max_mm": 0.2087672799233293,
+      "inset_max_mm": 0.22342158917919294,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0003295064159892
+    },
+    {
+      "link": "ring_proximal",
+      "tris": 322,
+      "bulge_mean_mm": 0.36534650247278927,
+      "bulge_p95_mm": 2.4299585694550703,
+      "bulge_max_mm": 3.6060062324186255,
+      "inset_max_mm": 3.3652787939213606,
+      "conv_ratio": 0.665660465730716,
+      "vol_ratio_q_vs_hull": 1.0839242174981654
+    },
+    {
+      "link": "ring_middle",
+      "tris": 548,
+      "bulge_mean_mm": 0.31786344188148163,
+      "bulge_p95_mm": 1.4490492907520751,
+      "bulge_max_mm": 2.279008368686824,
+      "inset_max_mm": 2.0162743569210106,
+      "conv_ratio": 0.6016325348261479,
+      "vol_ratio_q_vs_hull": 1.092740235395194
+    },
+    {
+      "link": "ring_distal",
+      "tris": 2326,
+      "bulge_mean_mm": 0.23798460630109497,
+      "bulge_p95_mm": 1.290394581208404,
+      "bulge_max_mm": 4.349836120940516,
+      "inset_max_mm": 2.78815438341258,
+      "conv_ratio": 0.5066450502860635,
+      "vol_ratio_q_vs_hull": 1.0609636918648566
+    },
+    {
+      "link": "middle_metacarpals",
+      "tris": 440,
+      "bulge_mean_mm": 0.003480206269401991,
+      "bulge_p95_mm": 0.008966924804640177,
+      "bulge_max_mm": 0.2087672799233293,
+      "inset_max_mm": 0.22342158917919294,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0003295064159892
+    },
+    {
+      "link": "middle_proximal",
+      "tris": 452,
+      "bulge_mean_mm": 0.2229576921563905,
+      "bulge_p95_mm": 1.4958263474625586,
+      "bulge_max_mm": 3.2863475490617495,
+      "inset_max_mm": 2.825112729780875,
+      "conv_ratio": 0.6656605008739275,
+      "vol_ratio_q_vs_hull": 1.0505284149281948
+    },
+    {
+      "link": "middle_middle",
+      "tris": 552,
+      "bulge_mean_mm": 0.3104171618233205,
+      "bulge_p95_mm": 1.431521465030175,
+      "bulge_max_mm": 2.311581287526059,
+      "inset_max_mm": 2.0387462318132696,
+      "conv_ratio": 0.6016325793478062,
+      "vol_ratio_q_vs_hull": 1.0906925629458593
+    },
+    {
+      "link": "middle_distal",
+      "tris": 2412,
+      "bulge_mean_mm": 0.09717804482028221,
+      "bulge_p95_mm": 0.4700162835885226,
+      "bulge_max_mm": 2.282273836783105,
+      "inset_max_mm": 1.710727754563372,
+      "conv_ratio": 0.5066449924400624,
+      "vol_ratio_q_vs_hull": 1.0241475536329558
+    },
+    {
+      "link": "index_metacarpals",
+      "tris": 440,
+      "bulge_mean_mm": 0.003480206269401991,
+      "bulge_p95_mm": 0.008966924804640177,
+      "bulge_max_mm": 0.2087672799233293,
+      "inset_max_mm": 0.22342158917919294,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0003295064159892
+    },
+    {
+      "link": "index_proximal",
+      "tris": 296,
+      "bulge_mean_mm": 0.39480092238857845,
+      "bulge_p95_mm": 2.483080884060093,
+      "bulge_max_mm": 3.591531472653074,
+      "inset_max_mm": 3.374292271645673,
+      "conv_ratio": 0.6656605067149615,
+      "vol_ratio_q_vs_hull": 1.0910301573904149
+    },
+    {
+      "link": "index_middle",
+      "tris": 478,
+      "bulge_mean_mm": 0.4708459955102449,
+      "bulge_p95_mm": 1.6392116707898925,
+      "bulge_max_mm": 2.3139554623649845,
+      "inset_max_mm": 2.016250312932323,
+      "conv_ratio": 0.6016324637833371,
+      "vol_ratio_q_vs_hull": 1.1387607592165476
+    },
+    {
+      "link": "index_distal",
+      "tris": 2476,
+      "bulge_mean_mm": 0.24402289894401785,
+      "bulge_p95_mm": 1.3824782726249345,
+      "bulge_max_mm": 4.2820243299130185,
+      "inset_max_mm": 2.684118601511885,
+      "conv_ratio": 0.5066450656507641,
+      "vol_ratio_q_vs_hull": 1.0596447277805112
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "tris": 848,
+      "bulge_mean_mm": 0.09602803745108825,
+      "bulge_p95_mm": 0.3090432620760487,
+      "bulge_max_mm": 5.158707614040351,
+      "inset_max_mm": 3.216307433863393,
+      "conv_ratio": 0.5474906936103962,
+      "vol_ratio_q_vs_hull": 1.0136336172727511
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "tris": 704,
+      "bulge_mean_mm": 0.006938791019183154,
+      "bulge_p95_mm": 0.049508761433612034,
+      "bulge_max_mm": 0.1718753780178728,
+      "inset_max_mm": 0.17602052413719566,
+      "conv_ratio": 0.46971217051891334,
+      "vol_ratio_q_vs_hull": 1.0013686487884252
+    },
+    {
+      "link": "thumb_metacarpals",
+      "tris": 832,
+      "bulge_mean_mm": 0.9696761639459959,
+      "bulge_p95_mm": 3.5892928777583206,
+      "bulge_max_mm": 7.5789894973922145,
+      "inset_max_mm": 5.072292987151355,
+      "conv_ratio": 0.6832476680189628,
+      "vol_ratio_q_vs_hull": 1.137557898943192
+    },
+    {
+      "link": "thumb_proximal",
+      "tris": 682,
+      "bulge_mean_mm": 0.5967952090751432,
+      "bulge_p95_mm": 2.657879479597583,
+      "bulge_max_mm": 4.873939654264108,
+      "inset_max_mm": 3.773510654131384,
+      "conv_ratio": 0.6418122669631681,
+      "vol_ratio_q_vs_hull": 1.1332057678198872
+    },
+    {
+      "link": "thumb_distal",
+      "tris": 770,
+      "bulge_mean_mm": 2.284091137848295,
+      "bulge_p95_mm": 7.39094502163055,
+      "bulge_max_mm": 13.822370309060716,
+      "inset_max_mm": 6.194628474248329,
+      "conv_ratio": 0.5861470881148748,
+      "vol_ratio_q_vs_hull": 1.5461175705735877
+    }
+  ],
+  "0.5": [
+    {
+      "link": "hand_base_link",
+      "tris": 1636,
+      "bulge_mean_mm": 0.7737773296331101,
+      "bulge_p95_mm": 4.47215273030599,
+      "bulge_max_mm": 18.60641916594474,
+      "inset_max_mm": 13.268169080409915,
+      "conv_ratio": 0.55600104174726,
+      "vol_ratio_q_vs_hull": 1.0413357914902273
+    },
+    {
+      "link": "pinky_metacarpals",
+      "tris": 368,
+      "bulge_mean_mm": 0.007163363547651402,
+      "bulge_p95_mm": 0.028726833795636394,
+      "bulge_max_mm": 0.2459989629633494,
+      "inset_max_mm": 0.19096084639838193,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0017596668681956
+    },
+    {
+      "link": "pinky_proximal",
+      "tris": 354,
+      "bulge_mean_mm": 0.10998514630923384,
+      "bulge_p95_mm": 0.7166736848098502,
+      "bulge_max_mm": 3.1413513352887703,
+      "inset_max_mm": 2.417008888919649,
+      "conv_ratio": 0.6656605407894562,
+      "vol_ratio_q_vs_hull": 1.0261842527913296
+    },
+    {
+      "link": "pinky_middle",
+      "tris": 262,
+      "bulge_mean_mm": 0.6425970148711894,
+      "bulge_p95_mm": 2.33488819134518,
+      "bulge_max_mm": 5.364664394376141,
+      "inset_max_mm": 3.981348685551451,
+      "conv_ratio": 0.6016325199281162,
+      "vol_ratio_q_vs_hull": 1.181800585017712
+    },
+    {
+      "link": "pinky_distal",
+      "tris": 2810,
+      "bulge_mean_mm": 0.045109820031966834,
+      "bulge_p95_mm": 0.18828324086635617,
+      "bulge_max_mm": 0.9452128463741801,
+      "inset_max_mm": 0.9094595254106886,
+      "conv_ratio": 0.506644944676392,
+      "vol_ratio_q_vs_hull": 1.0087928261059462
+    },
+    {
+      "link": "ring_metacarpals",
+      "tris": 368,
+      "bulge_mean_mm": 0.007163363547651402,
+      "bulge_p95_mm": 0.028726833795636394,
+      "bulge_max_mm": 0.2459989629633494,
+      "inset_max_mm": 0.19096084639838193,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0017596668681956
+    },
+    {
+      "link": "ring_proximal",
+      "tris": 356,
+      "bulge_mean_mm": 0.11007185535058787,
+      "bulge_p95_mm": 0.7227218384791916,
+      "bulge_max_mm": 3.1413471982381167,
+      "inset_max_mm": 2.41700357306782,
+      "conv_ratio": 0.665660465730716,
+      "vol_ratio_q_vs_hull": 1.0261884116222713
+    },
+    {
+      "link": "ring_middle",
+      "tris": 270,
+      "bulge_mean_mm": 0.89018142381081,
+      "bulge_p95_mm": 3.7353349298706595,
+      "bulge_max_mm": 7.330618402736611,
+      "inset_max_mm": 5.190559868348106,
+      "conv_ratio": 0.6016325348261479,
+      "vol_ratio_q_vs_hull": 1.2457895683734863
+    },
+    {
+      "link": "ring_distal",
+      "tris": 2916,
+      "bulge_mean_mm": 0.044962559105182875,
+      "bulge_p95_mm": 0.1929912356745244,
+      "bulge_max_mm": 0.9686664887773334,
+      "inset_max_mm": 0.8967316511811885,
+      "conv_ratio": 0.5066450502860635,
+      "vol_ratio_q_vs_hull": 1.0084203803051843
+    },
+    {
+      "link": "middle_metacarpals",
+      "tris": 368,
+      "bulge_mean_mm": 0.007163363547651402,
+      "bulge_p95_mm": 0.028726833795636394,
+      "bulge_max_mm": 0.2459989629633494,
+      "inset_max_mm": 0.19096084639838193,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0017596668681956
+    },
+    {
+      "link": "middle_proximal",
+      "tris": 354,
+      "bulge_mean_mm": 0.10998340614188855,
+      "bulge_p95_mm": 0.7166804949230204,
+      "bulge_max_mm": 3.1413511574453628,
+      "inset_max_mm": 2.417007664117519,
+      "conv_ratio": 0.6656605008739275,
+      "vol_ratio_q_vs_hull": 1.0261839107904935
+    },
+    {
+      "link": "middle_middle",
+      "tris": 240,
+      "bulge_mean_mm": 0.9569910175703742,
+      "bulge_p95_mm": 3.77712585116423,
+      "bulge_max_mm": 7.293284138567159,
+      "inset_max_mm": 5.244691200676472,
+      "conv_ratio": 0.6016325793478062,
+      "vol_ratio_q_vs_hull": 1.2675373065398288
+    },
+    {
+      "link": "middle_distal",
+      "tris": 2914,
+      "bulge_mean_mm": 0.04244865472316156,
+      "bulge_p95_mm": 0.18129450756443785,
+      "bulge_max_mm": 0.9691362194373195,
+      "inset_max_mm": 0.9074602498471337,
+      "conv_ratio": 0.5066449924400624,
+      "vol_ratio_q_vs_hull": 1.008426250348022
+    },
+    {
+      "link": "index_metacarpals",
+      "tris": 368,
+      "bulge_mean_mm": 0.007163363547651402,
+      "bulge_p95_mm": 0.028726833795636394,
+      "bulge_max_mm": 0.2459989629633494,
+      "inset_max_mm": 0.19096084639838193,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0017596668681956
+    },
+    {
+      "link": "index_proximal",
+      "tris": 356,
+      "bulge_mean_mm": 0.11306127734930693,
+      "bulge_p95_mm": 0.7902864187164215,
+      "bulge_max_mm": 3.1604754716615178,
+      "inset_max_mm": 2.476896821154198,
+      "conv_ratio": 0.6656605067149615,
+      "vol_ratio_q_vs_hull": 1.0262130672994716
+    },
+    {
+      "link": "index_middle",
+      "tris": 256,
+      "bulge_mean_mm": 1.028715112159633,
+      "bulge_p95_mm": 4.019931063805297,
+      "bulge_max_mm": 7.316438873649135,
+      "inset_max_mm": 5.174014896349254,
+      "conv_ratio": 0.6016324637833371,
+      "vol_ratio_q_vs_hull": 1.2814064545963482
+    },
+    {
+      "link": "index_distal",
+      "tris": 2940,
+      "bulge_mean_mm": 0.04178080519759654,
+      "bulge_p95_mm": 0.1763291962530442,
+      "bulge_max_mm": 0.9167051209081691,
+      "inset_max_mm": 0.8793792457510891,
+      "conv_ratio": 0.5066450656507641,
+      "vol_ratio_q_vs_hull": 1.0081672988741324
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "tris": 826,
+      "bulge_mean_mm": 0.022817542737532004,
+      "bulge_p95_mm": 0.0644384054604377,
+      "bulge_max_mm": 0.17477835002001055,
+      "inset_max_mm": 0.16704587803818452,
+      "conv_ratio": 0.5474906936103962,
+      "vol_ratio_q_vs_hull": 1.0043089892260952
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "tris": 614,
+      "bulge_mean_mm": 0.010662184226143206,
+      "bulge_p95_mm": 0.04635493781410268,
+      "bulge_max_mm": 0.18352631366934902,
+      "inset_max_mm": 0.19203992816197898,
+      "conv_ratio": 0.46971217051891334,
+      "vol_ratio_q_vs_hull": 1.0023401058751693
+    },
+    {
+      "link": "thumb_metacarpals",
+      "tris": 1008,
+      "bulge_mean_mm": 0.5277446658048968,
+      "bulge_p95_mm": 2.7295140597250342,
+      "bulge_max_mm": 5.710052168932369,
+      "inset_max_mm": 4.506462775099128,
+      "conv_ratio": 0.6832476680189628,
+      "vol_ratio_q_vs_hull": 1.073262192204008
+    },
+    {
+      "link": "thumb_proximal",
+      "tris": 688,
+      "bulge_mean_mm": 0.41151472156587854,
+      "bulge_p95_mm": 2.228804574429396,
+      "bulge_max_mm": 4.557954346307195,
+      "inset_max_mm": 3.753988370836693,
+      "conv_ratio": 0.6418122669631681,
+      "vol_ratio_q_vs_hull": 1.0923989627119353
+    },
+    {
+      "link": "thumb_distal",
+      "tris": 1632,
+      "bulge_mean_mm": 0.42067509274931253,
+      "bulge_p95_mm": 1.891470175944256,
+      "bulge_max_mm": 4.370951074360876,
+      "inset_max_mm": 3.1858676351707427,
+      "conv_ratio": 0.5861470881148748,
+      "vol_ratio_q_vs_hull": 1.1007964200935827
+    }
+  ],
+  "1.0": [
+    {
+      "link": "hand_base_link",
+      "tris": 1542,
+      "bulge_mean_mm": 0.49234905641050625,
+      "bulge_p95_mm": 3.03235539845418,
+      "bulge_max_mm": 18.32259086313731,
+      "inset_max_mm": 13.245475489932431,
+      "conv_ratio": 0.55600104174726,
+      "vol_ratio_q_vs_hull": 1.0289403548067377
+    },
+    {
+      "link": "pinky_metacarpals",
+      "tris": 188,
+      "bulge_mean_mm": 0.06761379790094528,
+      "bulge_p95_mm": 0.14953966765290422,
+      "bulge_max_mm": 0.29261074394469044,
+      "inset_max_mm": 0.2949588030556977,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.026858905781812
+    },
+    {
+      "link": "pinky_proximal",
+      "tris": 250,
+      "bulge_mean_mm": 0.08293584676170217,
+      "bulge_p95_mm": 0.24763334028760775,
+      "bulge_max_mm": 0.4159512013658521,
+      "inset_max_mm": 0.4085756556010431,
+      "conv_ratio": 0.6656605407894562,
+      "vol_ratio_q_vs_hull": 1.0206251629779792
+    },
+    {
+      "link": "pinky_middle",
+      "tris": 236,
+      "bulge_mean_mm": 0.10463739170441493,
+      "bulge_p95_mm": 0.2363111372492607,
+      "bulge_max_mm": 0.39897699383739227,
+      "inset_max_mm": 0.3936330203678835,
+      "conv_ratio": 0.6016325199281162,
+      "vol_ratio_q_vs_hull": 1.0310936420961314
+    },
+    {
+      "link": "pinky_distal",
+      "tris": 1098,
+      "bulge_mean_mm": 0.06391803962720222,
+      "bulge_p95_mm": 0.19112766324939276,
+      "bulge_max_mm": 0.5010224669182001,
+      "inset_max_mm": 0.41096413839454066,
+      "conv_ratio": 0.506644944676392,
+      "vol_ratio_q_vs_hull": 1.0161733043925076
+    },
+    {
+      "link": "ring_metacarpals",
+      "tris": 188,
+      "bulge_mean_mm": 0.06761379790094528,
+      "bulge_p95_mm": 0.14953966765290422,
+      "bulge_max_mm": 0.29261074394469044,
+      "inset_max_mm": 0.2949588030556977,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.026858905781812
+    },
+    {
+      "link": "ring_proximal",
+      "tris": 252,
+      "bulge_mean_mm": 0.08537095260381064,
+      "bulge_p95_mm": 0.26164803435861905,
+      "bulge_max_mm": 0.44242406306563153,
+      "inset_max_mm": 0.43792387853676834,
+      "conv_ratio": 0.665660465730716,
+      "vol_ratio_q_vs_hull": 1.0211316245304232
+    },
+    {
+      "link": "ring_middle",
+      "tris": 238,
+      "bulge_mean_mm": 0.105627736141285,
+      "bulge_p95_mm": 0.23692125607893846,
+      "bulge_max_mm": 0.3958269561638918,
+      "inset_max_mm": 0.36172879846459965,
+      "conv_ratio": 0.6016325348261479,
+      "vol_ratio_q_vs_hull": 1.0311929249491663
+    },
+    {
+      "link": "ring_distal",
+      "tris": 1098,
+      "bulge_mean_mm": 0.06379154600556831,
+      "bulge_p95_mm": 0.18981800707336205,
+      "bulge_max_mm": 0.5010245807319078,
+      "inset_max_mm": 0.4368743566700529,
+      "conv_ratio": 0.5066450502860635,
+      "vol_ratio_q_vs_hull": 1.016175026346906
+    },
+    {
+      "link": "middle_metacarpals",
+      "tris": 188,
+      "bulge_mean_mm": 0.06761379790094528,
+      "bulge_p95_mm": 0.14953966765290422,
+      "bulge_max_mm": 0.29261074394469044,
+      "inset_max_mm": 0.2949588030556977,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.026858905781812
+    },
+    {
+      "link": "middle_proximal",
+      "tris": 250,
+      "bulge_mean_mm": 0.08293335853368006,
+      "bulge_p95_mm": 0.24762462632003063,
+      "bulge_max_mm": 0.41594320727903866,
+      "inset_max_mm": 0.4085653157285191,
+      "conv_ratio": 0.6656605008739275,
+      "vol_ratio_q_vs_hull": 1.0206250790604208
+    },
+    {
+      "link": "middle_middle",
+      "tris": 236,
+      "bulge_mean_mm": 0.10468810169245858,
+      "bulge_p95_mm": 0.2376712482458069,
+      "bulge_max_mm": 0.3989598520364108,
+      "inset_max_mm": 0.36981470317123505,
+      "conv_ratio": 0.6016325793478062,
+      "vol_ratio_q_vs_hull": 1.0310593810213975
+    },
+    {
+      "link": "middle_distal",
+      "tris": 1098,
+      "bulge_mean_mm": 0.06389614638659469,
+      "bulge_p95_mm": 0.19145550577980475,
+      "bulge_max_mm": 0.501020744685885,
+      "inset_max_mm": 0.39170710329687936,
+      "conv_ratio": 0.5066449924400624,
+      "vol_ratio_q_vs_hull": 1.0161725060198095
+    },
+    {
+      "link": "index_metacarpals",
+      "tris": 188,
+      "bulge_mean_mm": 0.06761379790094528,
+      "bulge_p95_mm": 0.14953966765290422,
+      "bulge_max_mm": 0.29261074394469044,
+      "inset_max_mm": 0.2949588030556977,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.026858905781812
+    },
+    {
+      "link": "index_proximal",
+      "tris": 252,
+      "bulge_mean_mm": 0.08537827532013999,
+      "bulge_p95_mm": 0.26165036592682084,
+      "bulge_max_mm": 0.44242939168107465,
+      "inset_max_mm": 0.43792911529866224,
+      "conv_ratio": 0.6656605067149615,
+      "vol_ratio_q_vs_hull": 1.0211313990042266
+    },
+    {
+      "link": "index_middle",
+      "tris": 236,
+      "bulge_mean_mm": 0.10564509456786324,
+      "bulge_p95_mm": 0.23678733698958507,
+      "bulge_max_mm": 0.3989495111314051,
+      "inset_max_mm": 0.38707520548298474,
+      "conv_ratio": 0.6016324637833371,
+      "vol_ratio_q_vs_hull": 1.0312545703974014
+    },
+    {
+      "link": "index_distal",
+      "tris": 1098,
+      "bulge_mean_mm": 0.06370264570884701,
+      "bulge_p95_mm": 0.18949141169125555,
+      "bulge_max_mm": 0.5010196089953166,
+      "inset_max_mm": 0.4510709566024892,
+      "conv_ratio": 0.5066450656507641,
+      "vol_ratio_q_vs_hull": 1.0161749731635628
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "tris": 492,
+      "bulge_mean_mm": 0.05133428793722822,
+      "bulge_p95_mm": 0.18204884663217843,
+      "bulge_max_mm": 0.37223737540922663,
+      "inset_max_mm": 0.37469105994057433,
+      "conv_ratio": 0.5474906936103962,
+      "vol_ratio_q_vs_hull": 1.0098429537857576
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "tris": 392,
+      "bulge_mean_mm": 0.07360502743447328,
+      "bulge_p95_mm": 0.2612593086076757,
+      "bulge_max_mm": 0.44837144904605764,
+      "inset_max_mm": 0.4574859671779605,
+      "conv_ratio": 0.46971217051891334,
+      "vol_ratio_q_vs_hull": 1.0170955218239697
+    },
+    {
+      "link": "thumb_metacarpals",
+      "tris": 1164,
+      "bulge_mean_mm": 0.6388044883682807,
+      "bulge_p95_mm": 4.139053647571844,
+      "bulge_max_mm": 9.801310073322165,
+      "inset_max_mm": 7.214084003500744,
+      "conv_ratio": 0.6832476680189628,
+      "vol_ratio_q_vs_hull": 1.0886132160399662
+    },
+    {
+      "link": "thumb_proximal",
+      "tris": 490,
+      "bulge_mean_mm": 0.09779503703857707,
+      "bulge_p95_mm": 0.2502814727695202,
+      "bulge_max_mm": 0.5658039165972022,
+      "inset_max_mm": 0.5161021098101956,
+      "conv_ratio": 0.6418122669631681,
+      "vol_ratio_q_vs_hull": 1.0226893280463898
+    },
+    {
+      "link": "thumb_distal",
+      "tris": 1284,
+      "bulge_mean_mm": 0.07850653803633544,
+      "bulge_p95_mm": 0.19933022397889996,
+      "bulge_max_mm": 0.37494037821210624,
+      "inset_max_mm": 0.3509495215408695,
+      "conv_ratio": 0.5861470881148748,
+      "vol_ratio_q_vs_hull": 1.0176883633393052
+    }
+  ],
+  "1.5": [
+    {
+      "link": "hand_base_link",
+      "tris": 1238,
+      "bulge_mean_mm": 0.18680588393191785,
+      "bulge_p95_mm": 0.832571006167337,
+      "bulge_max_mm": 2.8243907846850207,
+      "inset_max_mm": 2.5764500003818793,
+      "conv_ratio": 0.55600104174726,
+      "vol_ratio_q_vs_hull": 1.011929026771584
+    },
+    {
+      "link": "pinky_metacarpals",
+      "tris": 122,
+      "bulge_mean_mm": 0.20884551181680436,
+      "bulge_p95_mm": 0.5169959131524671,
+      "bulge_max_mm": 0.7589571411698143,
+      "inset_max_mm": 0.6897689961017346,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0832921628104615
+    },
+    {
+      "link": "pinky_proximal",
+      "tris": 178,
+      "bulge_mean_mm": 0.15609899503472482,
+      "bulge_p95_mm": 0.38933721793103737,
+      "bulge_max_mm": 0.6458051588992414,
+      "inset_max_mm": 0.5564597954821673,
+      "conv_ratio": 0.6656605407894562,
+      "vol_ratio_q_vs_hull": 1.0391682516214256
+    },
+    {
+      "link": "pinky_middle",
+      "tris": 152,
+      "bulge_mean_mm": 0.2004379516534194,
+      "bulge_p95_mm": 0.4690249105343307,
+      "bulge_max_mm": 0.9586049760409819,
+      "inset_max_mm": 0.9476982998754938,
+      "conv_ratio": 0.6016325199281162,
+      "vol_ratio_q_vs_hull": 1.0604489944402868
+    },
+    {
+      "link": "pinky_distal",
+      "tris": 574,
+      "bulge_mean_mm": 0.13767981518325678,
+      "bulge_p95_mm": 0.37199476960217975,
+      "bulge_max_mm": 0.7747454027742003,
+      "inset_max_mm": 0.7554307264387591,
+      "conv_ratio": 0.506644944676392,
+      "vol_ratio_q_vs_hull": 1.0401819942440123
+    },
+    {
+      "link": "ring_metacarpals",
+      "tris": 122,
+      "bulge_mean_mm": 0.20884551181680436,
+      "bulge_p95_mm": 0.5169959131524671,
+      "bulge_max_mm": 0.7589571411698143,
+      "inset_max_mm": 0.6897689961017346,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0832921628104615
+    },
+    {
+      "link": "ring_proximal",
+      "tris": 178,
+      "bulge_mean_mm": 0.1560963452019433,
+      "bulge_p95_mm": 0.3893332379869463,
+      "bulge_max_mm": 0.6457978264081361,
+      "inset_max_mm": 0.556449989076188,
+      "conv_ratio": 0.665660465730716,
+      "vol_ratio_q_vs_hull": 1.0391675459645366
+    },
+    {
+      "link": "ring_middle",
+      "tris": 150,
+      "bulge_mean_mm": 0.20119580825809372,
+      "bulge_p95_mm": 0.4716590102472173,
+      "bulge_max_mm": 0.9901796565157381,
+      "inset_max_mm": 0.9541717746917465,
+      "conv_ratio": 0.6016325348261479,
+      "vol_ratio_q_vs_hull": 1.0609002485999677
+    },
+    {
+      "link": "ring_distal",
+      "tris": 574,
+      "bulge_mean_mm": 0.13770951616602514,
+      "bulge_p95_mm": 0.3715342465287881,
+      "bulge_max_mm": 0.7747448232880421,
+      "inset_max_mm": 0.748203744091316,
+      "conv_ratio": 0.5066450502860635,
+      "vol_ratio_q_vs_hull": 1.0401890849438762
+    },
+    {
+      "link": "middle_metacarpals",
+      "tris": 122,
+      "bulge_mean_mm": 0.20884551181680436,
+      "bulge_p95_mm": 0.5169959131524671,
+      "bulge_max_mm": 0.7589571411698143,
+      "inset_max_mm": 0.6897689961017346,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0832921628104615
+    },
+    {
+      "link": "middle_proximal",
+      "tris": 178,
+      "bulge_mean_mm": 0.1561018218989351,
+      "bulge_p95_mm": 0.3893396399917395,
+      "bulge_max_mm": 0.6458051415152805,
+      "inset_max_mm": 0.5564596616912764,
+      "conv_ratio": 0.6656605008739275,
+      "vol_ratio_q_vs_hull": 1.0391678459311247
+    },
+    {
+      "link": "middle_middle",
+      "tris": 152,
+      "bulge_mean_mm": 0.20046331220980074,
+      "bulge_p95_mm": 0.46902660663472934,
+      "bulge_max_mm": 0.95860588587033,
+      "inset_max_mm": 0.9476999636176308,
+      "conv_ratio": 0.6016325793478062,
+      "vol_ratio_q_vs_hull": 1.0604482904207144
+    },
+    {
+      "link": "middle_distal",
+      "tris": 574,
+      "bulge_mean_mm": 0.13767721401441374,
+      "bulge_p95_mm": 0.371994562276353,
+      "bulge_max_mm": 0.774740356047249,
+      "inset_max_mm": 0.762643107651093,
+      "conv_ratio": 0.5066449924400624,
+      "vol_ratio_q_vs_hull": 1.040181802401503
+    },
+    {
+      "link": "index_metacarpals",
+      "tris": 122,
+      "bulge_mean_mm": 0.20884551181680436,
+      "bulge_p95_mm": 0.5169959131524671,
+      "bulge_max_mm": 0.7589571411698143,
+      "inset_max_mm": 0.6897689961017346,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.0832921628104615
+    },
+    {
+      "link": "index_proximal",
+      "tris": 178,
+      "bulge_mean_mm": 0.15613742367237782,
+      "bulge_p95_mm": 0.389337362363703,
+      "bulge_max_mm": 0.6457991195552901,
+      "inset_max_mm": 0.5564517490825687,
+      "conv_ratio": 0.6656605067149615,
+      "vol_ratio_q_vs_hull": 1.0391780379657463
+    },
+    {
+      "link": "index_middle",
+      "tris": 150,
+      "bulge_mean_mm": 0.20120067718020848,
+      "bulge_p95_mm": 0.47167028670363464,
+      "bulge_max_mm": 0.9901922197438795,
+      "inset_max_mm": 0.9541840202422668,
+      "conv_ratio": 0.6016324637833371,
+      "vol_ratio_q_vs_hull": 1.0608999465872408
+    },
+    {
+      "link": "index_distal",
+      "tris": 574,
+      "bulge_mean_mm": 0.13768497531651158,
+      "bulge_p95_mm": 0.37153354645740383,
+      "bulge_max_mm": 0.7747488355154518,
+      "inset_max_mm": 0.7442778401081602,
+      "conv_ratio": 0.5066450656507641,
+      "vol_ratio_q_vs_hull": 1.0401816832647048
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "tris": 382,
+      "bulge_mean_mm": 0.14343199290970424,
+      "bulge_p95_mm": 0.42479532668750136,
+      "bulge_max_mm": 0.7705218955948884,
+      "inset_max_mm": 0.7507831944598641,
+      "conv_ratio": 0.5474906936103962,
+      "vol_ratio_q_vs_hull": 1.0270449817882157
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "tris": 296,
+      "bulge_mean_mm": 0.13818845504237587,
+      "bulge_p95_mm": 0.447847142411049,
+      "bulge_max_mm": 1.073315608146628,
+      "inset_max_mm": 1.0062857584830593,
+      "conv_ratio": 0.46971217051891334,
+      "vol_ratio_q_vs_hull": 1.0328943219790563
+    },
+    {
+      "link": "thumb_metacarpals",
+      "tris": 874,
+      "bulge_mean_mm": 0.12898799219766188,
+      "bulge_p95_mm": 0.35316452019189126,
+      "bulge_max_mm": 0.837357150595819,
+      "inset_max_mm": 0.7123241866153123,
+      "conv_ratio": 0.6832476680189628,
+      "vol_ratio_q_vs_hull": 1.018540470228576
+    },
+    {
+      "link": "thumb_proximal",
+      "tris": 316,
+      "bulge_mean_mm": 0.14306920404094067,
+      "bulge_p95_mm": 0.3026039365304812,
+      "bulge_max_mm": 0.5872461962793707,
+      "inset_max_mm": 0.5350668070120158,
+      "conv_ratio": 0.6418122669631681,
+      "vol_ratio_q_vs_hull": 1.0341177945178608
+    },
+    {
+      "link": "thumb_distal",
+      "tris": 604,
+      "bulge_mean_mm": 0.21145098503401602,
+      "bulge_p95_mm": 0.5074090456415792,
+      "bulge_max_mm": 1.3813317255444937,
+      "inset_max_mm": 1.144242495954637,
+      "conv_ratio": 0.5861470881148748,
+      "vol_ratio_q_vs_hull": 1.0542692349661513
+    }
+  ],
+  "2.5": [
+    {
+      "link": "hand_base_link",
+      "tris": 838,
+      "bulge_mean_mm": 0.17892856986583763,
+      "bulge_p95_mm": 0.5661856128117817,
+      "bulge_max_mm": 1.2049274313661877,
+      "inset_max_mm": 1.1560962050309402,
+      "conv_ratio": 0.55600104174726,
+      "vol_ratio_q_vs_hull": 1.0118052338082295
+    },
+    {
+      "link": "pinky_metacarpals",
+      "tris": 72,
+      "bulge_mean_mm": 0.6123241394994057,
+      "bulge_p95_mm": 1.919452572383275,
+      "bulge_max_mm": 3.3838541450806305,
+      "inset_max_mm": 2.864898117353625,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.243551211293617
+    },
+    {
+      "link": "pinky_proximal",
+      "tris": 100,
+      "bulge_mean_mm": 0.43329038066973746,
+      "bulge_p95_mm": 0.9136991932349675,
+      "bulge_max_mm": 1.6442620887098207,
+      "inset_max_mm": 1.280078162017219,
+      "conv_ratio": 0.6656605407894562,
+      "vol_ratio_q_vs_hull": 1.1107218693151406
+    },
+    {
+      "link": "pinky_middle",
+      "tris": 98,
+      "bulge_mean_mm": 0.4499693062093155,
+      "bulge_p95_mm": 0.9179898311411984,
+      "bulge_max_mm": 1.3363104878275835,
+      "inset_max_mm": 1.2790292855898022,
+      "conv_ratio": 0.6016325199281162,
+      "vol_ratio_q_vs_hull": 1.1396236693474613
+    },
+    {
+      "link": "pinky_distal",
+      "tris": 216,
+      "bulge_mean_mm": 0.698822052484504,
+      "bulge_p95_mm": 1.4611331975601694,
+      "bulge_max_mm": 2.1998009017999594,
+      "inset_max_mm": 1.7779610883541137,
+      "conv_ratio": 0.506644944676392,
+      "vol_ratio_q_vs_hull": 1.2256867716962867
+    },
+    {
+      "link": "ring_metacarpals",
+      "tris": 72,
+      "bulge_mean_mm": 0.6123241394994057,
+      "bulge_p95_mm": 1.919452572383275,
+      "bulge_max_mm": 3.3838541450806305,
+      "inset_max_mm": 2.864898117353625,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.243551211293617
+    },
+    {
+      "link": "ring_proximal",
+      "tris": 100,
+      "bulge_mean_mm": 0.433294442339567,
+      "bulge_p95_mm": 0.9136976225013066,
+      "bulge_max_mm": 1.6442670592090578,
+      "inset_max_mm": 1.2800801208963888,
+      "conv_ratio": 0.665660465730716,
+      "vol_ratio_q_vs_hull": 1.110723010741568
+    },
+    {
+      "link": "ring_middle",
+      "tris": 100,
+      "bulge_mean_mm": 0.4481144170245119,
+      "bulge_p95_mm": 0.9114236141341007,
+      "bulge_max_mm": 1.336312119620442,
+      "inset_max_mm": 1.2790293892759628,
+      "conv_ratio": 0.6016325348261479,
+      "vol_ratio_q_vs_hull": 1.1389871778804572
+    },
+    {
+      "link": "ring_distal",
+      "tris": 216,
+      "bulge_mean_mm": 0.698805292929757,
+      "bulge_p95_mm": 1.4611358418841616,
+      "bulge_max_mm": 2.199800944026628,
+      "inset_max_mm": 1.8233588240283518,
+      "conv_ratio": 0.5066450502860635,
+      "vol_ratio_q_vs_hull": 1.2256867876564668
+    },
+    {
+      "link": "middle_metacarpals",
+      "tris": 72,
+      "bulge_mean_mm": 0.6123241394994057,
+      "bulge_p95_mm": 1.919452572383275,
+      "bulge_max_mm": 3.3838541450806305,
+      "inset_max_mm": 2.864898117353625,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.243551211293617
+    },
+    {
+      "link": "middle_proximal",
+      "tris": 100,
+      "bulge_mean_mm": 0.43328938575234255,
+      "bulge_p95_mm": 0.9136996120271957,
+      "bulge_max_mm": 1.644256045859565,
+      "inset_max_mm": 1.3169038567211222,
+      "conv_ratio": 0.6656605008739275,
+      "vol_ratio_q_vs_hull": 1.1107215861429371
+    },
+    {
+      "link": "middle_middle",
+      "tris": 100,
+      "bulge_mean_mm": 0.4482347282106659,
+      "bulge_p95_mm": 0.9114222223319157,
+      "bulge_max_mm": 1.3363091462616894,
+      "inset_max_mm": 1.2790310627754193,
+      "conv_ratio": 0.6016325793478062,
+      "vol_ratio_q_vs_hull": 1.139192311261157
+    },
+    {
+      "link": "middle_distal",
+      "tris": 216,
+      "bulge_mean_mm": 0.6988214239884691,
+      "bulge_p95_mm": 1.4611329433227247,
+      "bulge_max_mm": 2.199800897996703,
+      "inset_max_mm": 1.7779610883541137,
+      "conv_ratio": 0.5066449924400624,
+      "vol_ratio_q_vs_hull": 1.225686555008819
+    },
+    {
+      "link": "index_metacarpals",
+      "tris": 72,
+      "bulge_mean_mm": 0.6123241394994057,
+      "bulge_p95_mm": 1.919452572383275,
+      "bulge_max_mm": 3.3838541450806305,
+      "inset_max_mm": 2.864898117353625,
+      "conv_ratio": 0.601542592718745,
+      "vol_ratio_q_vs_hull": 1.243551211293617
+    },
+    {
+      "link": "index_proximal",
+      "tris": 100,
+      "bulge_mean_mm": 0.4332941858069774,
+      "bulge_p95_mm": 0.9136964167873114,
+      "bulge_max_mm": 1.6442687399559162,
+      "inset_max_mm": 1.3207952394677431,
+      "conv_ratio": 0.6656605067149615,
+      "vol_ratio_q_vs_hull": 1.11072267295341
+    },
+    {
+      "link": "index_middle",
+      "tris": 98,
+      "bulge_mean_mm": 0.45068320878452467,
+      "bulge_p95_mm": 0.9180689615617112,
+      "bulge_max_mm": 1.3363072459294882,
+      "inset_max_mm": 1.2790270388965435,
+      "conv_ratio": 0.6016324637833371,
+      "vol_ratio_q_vs_hull": 1.1398271541775744
+    },
+    {
+      "link": "index_distal",
+      "tris": 216,
+      "bulge_mean_mm": 0.6987924027674755,
+      "bulge_p95_mm": 1.4611353120237756,
+      "bulge_max_mm": 2.199800935225083,
+      "inset_max_mm": 1.8233588240283518,
+      "conv_ratio": 0.5066450656507641,
+      "vol_ratio_q_vs_hull": 1.2256865297151687
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "tris": 274,
+      "bulge_mean_mm": 0.27721800772869315,
+      "bulge_p95_mm": 0.8785607514741134,
+      "bulge_max_mm": 1.2158701847111135,
+      "inset_max_mm": 1.1658795125508774,
+      "conv_ratio": 0.5474906936103962,
+      "vol_ratio_q_vs_hull": 1.0525853389159423
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "tris": 184,
+      "bulge_mean_mm": 0.3439487432973274,
+      "bulge_p95_mm": 0.6726347293765494,
+      "bulge_max_mm": 1.0827609940733633,
+      "inset_max_mm": 0.9051600872002518,
+      "conv_ratio": 0.46971217051891334,
+      "vol_ratio_q_vs_hull": 1.0822126224617843
+    },
+    {
+      "link": "thumb_metacarpals",
+      "tris": 402,
+      "bulge_mean_mm": 0.3938225976270614,
+      "bulge_p95_mm": 0.8031120102833912,
+      "bulge_max_mm": 1.440070940325359,
+      "inset_max_mm": 1.3073170065932993,
+      "conv_ratio": 0.6832476680189628,
+      "vol_ratio_q_vs_hull": 1.0589224953415268
+    },
+    {
+      "link": "thumb_proximal",
+      "tris": 200,
+      "bulge_mean_mm": 0.4470742666940442,
+      "bulge_p95_mm": 0.7490003698126539,
+      "bulge_max_mm": 1.0970359409959807,
+      "inset_max_mm": 1.0291400923703198,
+      "conv_ratio": 0.6418122669631681,
+      "vol_ratio_q_vs_hull": 1.1089006496829337
+    },
+    {
+      "link": "thumb_distal",
+      "tris": 258,
+      "bulge_mean_mm": 0.6077018217840147,
+      "bulge_p95_mm": 1.1687332523534928,
+      "bulge_max_mm": 1.7286671291049567,
+      "inset_max_mm": 1.5270159543687682,
+      "conv_ratio": 0.5861470881148748,
+      "vol_ratio_q_vs_hull": 1.167587113145999
+    }
+  ]
+}

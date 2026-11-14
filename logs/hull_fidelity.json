@@ -1,0 +1,394 @@
+{
+  "records": [
+    {
+      "link": "hand_base_link",
+      "collision_faces": 3854,
+      "volume_mm3": 692259.94,
+      "vol_over_bbox": 0.556,
+      "frac_visual_on_hull_0p2mm": 0.11,
+      "dist_p50_um": 2810.57,
+      "dist_p95_um": 9802.47,
+      "dist_max_mm": 18.631,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.0882,
+      "notes": []
+    },
+    {
+      "link": "pinky_metacarpals",
+      "collision_faces": 444,
+      "volume_mm3": 2694.81,
+      "vol_over_bbox": 0.6015,
+      "frac_visual_on_hull_0p2mm": 0.295,
+      "dist_p50_um": 865.87,
+      "dist_p95_um": 3314.65,
+      "dist_max_mm": 4.603,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1572,
+      "notes": [
+        "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "pinky_proximal",
+      "collision_faces": 1022,
+      "volume_mm3": 12992.1,
+      "vol_over_bbox": 0.6657,
+      "frac_visual_on_hull_0p2mm": 0.0922,
+      "dist_p50_um": 1644.71,
+      "dist_p95_um": 4102.79,
+      "dist_max_mm": 8.333,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1399,
+      "notes": []
+    },
+    {
+      "link": "pinky_middle",
+      "collision_faces": 2184,
+      "volume_mm3": 6987.24,
+      "vol_over_bbox": 0.6016,
+      "frac_visual_on_hull_0p2mm": 0.174,
+      "dist_p50_um": 1110.29,
+      "dist_p95_um": 2687.65,
+      "dist_max_mm": 3.196,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.0717,
+      "notes": []
+    },
+    {
+      "link": "pinky_distal",
+      "collision_faces": 6904,
+      "volume_mm3": 5724.51,
+      "vol_over_bbox": 0.5066,
+      "frac_visual_on_hull_0p2mm": 0.274,
+      "dist_p50_um": 1310.1,
+      "dist_p95_um": 5079.44,
+      "dist_max_mm": 7.381,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1703,
+      "notes": [
+        "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal)",
+        "6904 faces (above the 3-5k recommendation)"
+      ]
+    },
+    {
+      "link": "ring_metacarpals",
+      "collision_faces": 444,
+      "volume_mm3": 2694.81,
+      "vol_over_bbox": 0.6015,
+      "frac_visual_on_hull_0p2mm": 0.295,
+      "dist_p50_um": 865.87,
+      "dist_p95_um": 3314.65,
+      "dist_max_mm": 4.603,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1572,
+      "notes": [
+        "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "ring_proximal",
+      "collision_faces": 1024,
+      "volume_mm3": 12992.09,
+      "vol_over_bbox": 0.6657,
+      "frac_visual_on_hull_0p2mm": 0.0953,
+      "dist_p50_um": 1637.08,
+      "dist_p95_um": 4111.46,
+      "dist_max_mm": 8.334,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1399,
+      "notes": []
+    },
+    {
+      "link": "ring_middle",
+      "collision_faces": 2192,
+      "volume_mm3": 6987.24,
+      "vol_over_bbox": 0.6016,
+      "frac_visual_on_hull_0p2mm": 0.1812,
+      "dist_p50_um": 1108.31,
+      "dist_p95_um": 2639.94,
+      "dist_max_mm": 3.2,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.0717,
+      "notes": []
+    },
+    {
+      "link": "ring_distal",
+      "collision_faces": 6904,
+      "volume_mm3": 5724.51,
+      "vol_over_bbox": 0.5066,
+      "frac_visual_on_hull_0p2mm": 0.2737,
+      "dist_p50_um": 1310.02,
+      "dist_p95_um": 5079.44,
+      "dist_max_mm": 7.381,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1703,
+      "notes": [
+        "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal)",
+        "6904 faces (above the 3-5k recommendation)"
+      ]
+    },
+    {
+      "link": "middle_metacarpals",
+      "collision_faces": 444,
+      "volume_mm3": 2694.81,
+      "vol_over_bbox": 0.6015,
+      "frac_visual_on_hull_0p2mm": 0.295,
+      "dist_p50_um": 865.87,
+      "dist_p95_um": 3314.65,
+      "dist_max_mm": 4.603,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1572,
+      "notes": [
+        "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "middle_proximal",
+      "collision_faces": 1024,
+      "volume_mm3": 12992.1,
+      "vol_over_bbox": 0.6657,
+      "frac_visual_on_hull_0p2mm": 0.0988,
+      "dist_p50_um": 1627.79,
+      "dist_p95_um": 4160.05,
+      "dist_max_mm": 8.333,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1399,
+      "notes": []
+    },
+    {
+      "link": "middle_middle",
+      "collision_faces": 2190,
+      "volume_mm3": 6987.24,
+      "vol_over_bbox": 0.6016,
+      "frac_visual_on_hull_0p2mm": 0.1703,
+      "dist_p50_um": 1105.2,
+      "dist_p95_um": 2629.13,
+      "dist_max_mm": 3.197,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.0717,
+      "notes": []
+    },
+    {
+      "link": "middle_distal",
+      "collision_faces": 6902,
+      "volume_mm3": 5724.51,
+      "vol_over_bbox": 0.5066,
+      "frac_visual_on_hull_0p2mm": 0.271,
+      "dist_p50_um": 1320.08,
+      "dist_p95_um": 5169.47,
+      "dist_max_mm": 7.419,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1711,
+      "notes": [
+        "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal)",
+        "6902 faces (above the 3-5k recommendation)"
+      ]
+    },
+    {
+      "link": "index_metacarpals",
+      "collision_faces": 444,
+      "volume_mm3": 2694.81,
+      "vol_over_bbox": 0.6015,
+      "frac_visual_on_hull_0p2mm": 0.295,
+      "dist_p50_um": 865.87,
+      "dist_p95_um": 3314.65,
+      "dist_max_mm": 4.603,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1572,
+      "notes": [
+        "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "index_proximal",
+      "collision_faces": 1028,
+      "volume_mm3": 12992.1,
+      "vol_over_bbox": 0.6657,
+      "frac_visual_on_hull_0p2mm": 0.0897,
+      "dist_p50_um": 1616.03,
+      "dist_p95_um": 4137.59,
+      "dist_max_mm": 8.333,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1399,
+      "notes": []
+    },
+    {
+      "link": "index_middle",
+      "collision_faces": 2198,
+      "volume_mm3": 6987.24,
+      "vol_over_bbox": 0.6016,
+      "frac_visual_on_hull_0p2mm": 0.1745,
+      "dist_p50_um": 1119.37,
+      "dist_p95_um": 2675.18,
+      "dist_max_mm": 3.198,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.0717,
+      "notes": []
+    },
+    {
+      "link": "index_distal",
+      "collision_faces": 6904,
+      "volume_mm3": 5724.51,
+      "vol_over_bbox": 0.5066,
+      "frac_visual_on_hull_0p2mm": 0.2557,
+      "dist_p50_um": 1313.93,
+      "dist_p95_um": 4880.58,
+      "dist_max_mm": 7.565,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1745,
+      "notes": [
+        "hull spans a deep concavity (gap 7.6 mm = 17% of the bbox diagonal)",
+        "6904 faces (above the 3-5k recommendation)"
+      ]
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "collision_faces": 1048,
+      "volume_mm3": 33784.46,
+      "vol_over_bbox": 0.5475,
+      "frac_visual_on_hull_0p2mm": 0.265,
+      "dist_p50_um": 1747.94,
+      "dist_p95_um": 6657.94,
+      "dist_max_mm": 9.406,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1173,
+      "notes": []
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "collision_faces": 812,
+      "volume_mm3": 13373.17,
+      "vol_over_bbox": 0.4697,
+      "frac_visual_on_hull_0p2mm": 0.2175,
+      "dist_p50_um": 1833.86,
+      "dist_p95_um": 5971.44,
+      "dist_max_mm": 8.655,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1522,
+      "notes": [
+        "hull spans a deep concavity (gap 8.7 mm = 15% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "thumb_metacarpals",
+      "collision_faces": 7330,
+      "volume_mm3": 54278.97,
+      "vol_over_bbox": 0.6832,
+      "frac_visual_on_hull_0p2mm": 0.3075,
+      "dist_p50_um": 1111.75,
+      "dist_p95_um": 7723.56,
+      "dist_max_mm": 14.623,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1676,
+      "notes": [
+        "hull spans a deep concavity (gap 14.6 mm = 17% of the bbox diagonal)",
+        "7330 faces (above the 3-5k recommendation)"
+      ]
+    },
+    {
+      "link": "thumb_proximal",
+      "collision_faces": 4196,
+      "volume_mm3": 12892.79,
+      "vol_over_bbox": 0.6418,
+      "frac_visual_on_hull_0p2mm": 0.1935,
+      "dist_p50_um": 1026.21,
+      "dist_p95_um": 5767.86,
+      "dist_max_mm": 8.543,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1613,
+      "notes": [
+        "hull spans a deep concavity (gap 8.5 mm = 16% of the bbox diagonal)"
+      ]
+    },
+    {
+      "link": "thumb_distal",
+      "collision_faces": 7982,
+      "volume_mm3": 8565.64,
+      "vol_over_bbox": 0.5861,
+      "frac_visual_on_hull_0p2mm": 0.234,
+      "dist_p50_um": 1678.57,
+      "dist_p95_um": 6619.64,
+      "dist_max_mm": 8.827,
+      "bbox_excess_mm": 0.0,
+      "gap_over_diag": 0.1874,
+      "notes": [
+        "hull spans a deep concavity (gap 8.8 mm = 19% of the bbox diagonal)",
+        "7982 faces (above the 3-5k recommendation)"
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "link": "pinky_metacarpals",
+      "note": "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)",
+      "dist_max_mm": 4.603,
+      "frac": 0.295
+    },
+    {
+      "link": "pinky_distal",
+      "note": "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal); 6904 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 7.381,
+      "frac": 0.274
+    },
+    {
+      "link": "ring_metacarpals",
+      "note": "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)",
+      "dist_max_mm": 4.603,
+      "frac": 0.295
+    },
+    {
+      "link": "ring_distal",
+      "note": "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal); 6904 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 7.381,
+      "frac": 0.2737
+    },
+    {
+      "link": "middle_metacarpals",
+      "note": "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)",
+      "dist_max_mm": 4.603,
+      "frac": 0.295
+    },
+    {
+      "link": "middle_distal",
+      "note": "hull spans a deep concavity (gap 7.4 mm = 17% of the bbox diagonal); 6902 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 7.419,
+      "frac": 0.271
+    },
+    {
+      "link": "index_metacarpals",
+      "note": "hull spans a deep concavity (gap 4.6 mm = 16% of the bbox diagonal)",
+      "dist_max_mm": 4.603,
+      "frac": 0.295
+    },
+    {
+      "link": "index_distal",
+      "note": "hull spans a deep concavity (gap 7.6 mm = 17% of the bbox diagonal); 6904 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 7.565,
+      "frac": 0.2557
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "note": "hull spans a deep concavity (gap 8.7 mm = 15% of the bbox diagonal)",
+      "dist_max_mm": 8.655,
+      "frac": 0.2175
+    },
+    {
+      "link": "thumb_metacarpals",
+      "note": "hull spans a deep concavity (gap 14.6 mm = 17% of the bbox diagonal); 7330 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 14.623,
+      "frac": 0.3075
+    },
+    {
+      "link": "thumb_proximal",
+      "note": "hull spans a deep concavity (gap 8.5 mm = 16% of the bbox diagonal)",
+      "dist_max_mm": 8.543,
+      "frac": 0.1935
+    },
+    {
+      "link": "thumb_distal",
+      "note": "hull spans a deep concavity (gap 8.8 mm = 19% of the bbox diagonal); 7982 faces (above the 3-5k recommendation)",
+      "dist_max_mm": 8.827,
+      "frac": 0.234
+    }
+  ]
+}

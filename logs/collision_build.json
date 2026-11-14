@@ -1,0 +1,1246 @@
+{
+  "blender": "5.1.2",
+  "urdf": "/home/chenyc/codes/linkerhand_l20/linkerhand_l20.urdf",
+  "grid_mm": 1.0,
+  "margin_um": 1.0,
+  "out_dir": null,
+  "records": [
+    {
+      "link": "linkerhand_l20_root",
+      "skipped": "no visual or collision mesh"
+    },
+    {
+      "link": "root_link",
+      "skipped": "no visual or collision mesh"
+    },
+    {
+      "link": "hand_base_link",
+      "visual_file": "meshes/hand_base_link.STL",
+      "collision_file": "meshes/collisions/hand_base_link.STL",
+      "visual_faces": 42908,
+      "visual_verts_welded": 21001,
+      "hull_input_verts": 13907,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 3854,
+      "collision_tris": 3854,
+      "reduction": 11.13,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        233.14,
+        0.0
+      ],
+      "volume_m3": 0.0006922599441007593,
+      "stats": {
+        "verts": 1929,
+        "faces": 3854,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.37,
+      "verify": {
+        "tris": 3854,
+        "verts": 1929,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 3.559652572704408e-09,
+        "volume_m3": 0.0006922599441007593,
+        "volume_positive": true,
+        "max_penetration_um": 4.4619863360346786e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 42908
+      }
+    },
+    {
+      "link": "pinky_metacarpals",
+      "visual_file": "meshes/pinky_metacarpals.STL",
+      "collision_file": "meshes/collisions/pinky_metacarpals.STL",
+      "visual_faces": 1414,
+      "visual_verts_welded": 703,
+      "hull_input_verts": 489,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 444,
+      "collision_tris": 444,
+      "reduction": 3.18,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        121.363,
+        0.0
+      ],
+      "volume_m3": 2.6948135119752513e-06,
+      "stats": {
+        "verts": 224,
+        "faces": 444,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.12,
+      "verify": {
+        "tris": 444,
+        "verts": 224,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 3.469446951953614e-12,
+        "volume_m3": 2.6948135119752513e-06,
+        "volume_positive": true,
+        "max_penetration_um": 4.71511718558304e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 1414
+      }
+    },
+    {
+      "link": "pinky_proximal",
+      "visual_file": "meshes/pinky_proximal.STL",
+      "collision_file": "meshes/collisions/pinky_proximal.STL",
+      "visual_faces": 16136,
+      "visual_verts_welded": 8070,
+      "hull_input_verts": 2832,
+      "degenerate_hull_facets": 1,
+      "coarse_info": null,
+      "hull_facets": 1022,
+      "collision_tris": 1022,
+      "reduction": 15.79,
+      "inflation_iters": 15,
+      "violation_trace_um": [
+        213.908,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068
+      ],
+      "volume_m3": 1.2992096146585817e-05,
+      "stats": {
+        "verts": 513,
+        "faces": 1022,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.51,
+      "verify": {
+        "tris": 1022,
+        "verts": 513,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.2992096146585817e-05,
+        "volume_positive": true,
+        "max_penetration_um": 7.45931094670027e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 16136
+      }
+    },
+    {
+      "link": "pinky_middle",
+      "visual_file": "meshes/pinky_middle.STL",
+      "collision_file": "meshes/collisions/pinky_middle.STL",
+      "visual_faces": 14938,
+      "visual_verts_welded": 7462,
+      "hull_input_verts": 2585,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 2184,
+      "collision_tris": 2184,
+      "reduction": 6.84,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        136.305,
+        0.0
+      ],
+      "volume_m3": 6.987244182747069e-06,
+      "stats": {
+        "verts": 1094,
+        "faces": 2184,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.43,
+      "verify": {
+        "tris": 2184,
+        "verts": 1094,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 6.987244182747069e-06,
+        "volume_positive": true,
+        "max_penetration_um": 3.2526065174565133e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 14938
+      }
+    },
+    {
+      "link": "pinky_distal",
+      "visual_file": "meshes/pinky_distal.STL",
+      "collision_file": "meshes/collisions/pinky_distal.STL",
+      "visual_faces": 19016,
+      "visual_verts_welded": 9496,
+      "hull_input_verts": 4474,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 6904,
+      "collision_tris": 6904,
+      "reduction": 2.75,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        132.695,
+        0.0
+      ],
+      "volume_m3": 5.724508157413537e-06,
+      "stats": {
+        "verts": 3454,
+        "faces": 6904,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.41,
+      "verify": {
+        "tris": 6904,
+        "verts": 3454,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 5.724508157413537e-06,
+        "volume_positive": true,
+        "max_penetration_um": 3.0482560919864454e-08,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 19016
+      }
+    },
+    {
+      "link": "ring_metacarpals",
+      "visual_file": "meshes/ring_metacarpals.STL",
+      "collision_file": "meshes/collisions/ring_metacarpals.STL",
+      "visual_faces": 1414,
+      "visual_verts_welded": 703,
+      "hull_input_verts": 489,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 444,
+      "collision_tris": 444,
+      "reduction": 3.18,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        121.363,
+        0.0
+      ],
+      "volume_m3": 2.6948135119752513e-06,
+      "stats": {
+        "verts": 224,
+        "faces": 444,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.11,
+      "verify": {
+        "tris": 444,
+        "verts": 224,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 3.469446951953614e-12,
+        "volume_m3": 2.6948135119752513e-06,
+        "volume_positive": true,
+        "max_penetration_um": 4.71511718558304e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 1414
+      }
+    },
+    {
+      "link": "ring_proximal",
+      "visual_file": "meshes/ring_proximal.STL",
+      "collision_file": "meshes/collisions/ring_proximal.STL",
+      "visual_faces": 16136,
+      "visual_verts_welded": 8070,
+      "hull_input_verts": 2832,
+      "degenerate_hull_facets": 1,
+      "coarse_info": null,
+      "hull_facets": 1024,
+      "collision_tris": 1024,
+      "reduction": 15.76,
+      "inflation_iters": 15,
+      "violation_trace_um": [
+        213.908,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068
+      ],
+      "volume_m3": 1.299209465774574e-05,
+      "stats": {
+        "verts": 514,
+        "faces": 1024,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.5,
+      "verify": {
+        "tris": 1024,
+        "verts": 514,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.299209465774574e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.591949208711867e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 16136
+      }
+    },
+    {
+      "link": "ring_middle",
+      "visual_file": "meshes/ring_middle.STL",
+      "collision_file": "meshes/collisions/ring_middle.STL",
+      "visual_faces": 14940,
+      "visual_verts_welded": 7463,
+      "hull_input_verts": 2584,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 2192,
+      "collision_tris": 2192,
+      "reduction": 6.82,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        136.303,
+        0.0
+      ],
+      "volume_m3": 6.987244395731804e-06,
+      "stats": {
+        "verts": 1098,
+        "faces": 2192,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.41,
+      "verify": {
+        "tris": 2192,
+        "verts": 1098,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 6.987244395731804e-06,
+        "volume_positive": true,
+        "max_penetration_um": 8.517492267046123e-09,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 14940
+      }
+    },
+    {
+      "link": "ring_distal",
+      "visual_file": "meshes/ring_distal.STL",
+      "collision_file": "meshes/collisions/ring_distal.STL",
+      "visual_faces": 19016,
+      "visual_verts_welded": 9496,
+      "hull_input_verts": 4474,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 6904,
+      "collision_tris": 6904,
+      "reduction": 2.75,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        132.694,
+        0.0
+      ],
+      "volume_m3": 5.724508146756996e-06,
+      "stats": {
+        "verts": 3454,
+        "faces": 6904,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.38,
+      "verify": {
+        "tris": 6904,
+        "verts": 3454,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 5.724508146756996e-06,
+        "volume_positive": true,
+        "max_penetration_um": 3.737002027270897e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 19016
+      }
+    },
+    {
+      "link": "middle_metacarpals",
+      "visual_file": "meshes/middle_metacarpals.STL",
+      "collision_file": "meshes/collisions/middle_metacarpals.STL",
+      "visual_faces": 1414,
+      "visual_verts_welded": 703,
+      "hull_input_verts": 489,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 444,
+      "collision_tris": 444,
+      "reduction": 3.18,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        121.363,
+        0.0
+      ],
+      "volume_m3": 2.6948135119752513e-06,
+      "stats": {
+        "verts": 224,
+        "faces": 444,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.11,
+      "verify": {
+        "tris": 444,
+        "verts": 224,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 3.469446951953614e-12,
+        "volume_m3": 2.6948135119752513e-06,
+        "volume_positive": true,
+        "max_penetration_um": 4.71511718558304e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 1414
+      }
+    },
+    {
+      "link": "middle_proximal",
+      "visual_file": "meshes/middle_proximal.STL",
+      "collision_file": "meshes/collisions/middle_proximal.STL",
+      "visual_faces": 16142,
+      "visual_verts_welded": 8073,
+      "hull_input_verts": 2832,
+      "degenerate_hull_facets": 1,
+      "coarse_info": null,
+      "hull_facets": 1024,
+      "collision_tris": 1024,
+      "reduction": 15.76,
+      "inflation_iters": 15,
+      "violation_trace_um": [
+        213.908,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068
+      ],
+      "volume_m3": 1.2992095322734749e-05,
+      "stats": {
+        "verts": 514,
+        "faces": 1024,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.53,
+      "verify": {
+        "tris": 1024,
+        "verts": 514,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.2992095322734749e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.574601973952099e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 16142
+      }
+    },
+    {
+      "link": "middle_middle",
+      "visual_file": "meshes/middle_middle.STL",
+      "collision_file": "meshes/collisions/middle_middle.STL",
+      "visual_faces": 14938,
+      "visual_verts_welded": 7462,
+      "hull_input_verts": 2585,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 2190,
+      "collision_tris": 2190,
+      "reduction": 6.82,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        136.304,
+        0.0
+      ],
+      "volume_m3": 6.9872445425570264e-06,
+      "stats": {
+        "verts": 1097,
+        "faces": 2190,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.42,
+      "verify": {
+        "tris": 2190,
+        "verts": 1097,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 6.9872445425570264e-06,
+        "volume_positive": true,
+        "max_penetration_um": 1.947227101783966e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 14938
+      }
+    },
+    {
+      "link": "middle_distal",
+      "visual_file": "meshes/middle_distal.STL",
+      "collision_file": "meshes/collisions/middle_distal.STL",
+      "visual_faces": 19016,
+      "visual_verts_welded": 9496,
+      "hull_input_verts": 4474,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 6902,
+      "collision_tris": 6902,
+      "reduction": 2.76,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        132.693,
+        0.0
+      ],
+      "volume_m3": 5.724507814888496e-06,
+      "stats": {
+        "verts": 3453,
+        "faces": 6902,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.38,
+      "verify": {
+        "tris": 6902,
+        "verts": 3453,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 5.724507814888496e-06,
+        "volume_positive": true,
+        "max_penetration_um": 3.0482560919864454e-08,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 19016
+      }
+    },
+    {
+      "link": "index_metacarpals",
+      "visual_file": "meshes/index_metacarpals.STL",
+      "collision_file": "meshes/collisions/index_metacarpals.STL",
+      "visual_faces": 1414,
+      "visual_verts_welded": 703,
+      "hull_input_verts": 489,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 444,
+      "collision_tris": 444,
+      "reduction": 3.18,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        121.363,
+        0.0
+      ],
+      "volume_m3": 2.6948135119752513e-06,
+      "stats": {
+        "verts": 224,
+        "faces": 444,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.12,
+      "verify": {
+        "tris": 444,
+        "verts": 224,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 3.469446951953614e-12,
+        "volume_m3": 2.6948135119752513e-06,
+        "volume_positive": true,
+        "max_penetration_um": 4.71511718558304e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 1414
+      }
+    },
+    {
+      "link": "index_proximal",
+      "visual_file": "meshes/index_proximal.STL",
+      "collision_file": "meshes/collisions/index_proximal.STL",
+      "visual_faces": 16140,
+      "visual_verts_welded": 8072,
+      "hull_input_verts": 2832,
+      "degenerate_hull_facets": 1,
+      "coarse_info": null,
+      "hull_facets": 1028,
+      "collision_tris": 1028,
+      "reduction": 15.7,
+      "inflation_iters": 15,
+      "violation_trace_um": [
+        213.908,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068,
+        0.068
+      ],
+      "volume_m3": 1.2992095429148414e-05,
+      "stats": {
+        "verts": 516,
+        "faces": 1028,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.5,
+      "verify": {
+        "tris": 1028,
+        "verts": 516,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.2992095429148414e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.591949208711867e-10,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 16140
+      }
+    },
+    {
+      "link": "index_middle",
+      "visual_file": "meshes/index_middle.STL",
+      "collision_file": "meshes/collisions/index_middle.STL",
+      "visual_faces": 14938,
+      "visual_verts_welded": 7462,
+      "hull_input_verts": 2584,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 2198,
+      "collision_tris": 2198,
+      "reduction": 6.8,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        136.303,
+        0.0
+      ],
+      "volume_m3": 6.987244166866757e-06,
+      "stats": {
+        "verts": 1101,
+        "faces": 2198,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.43,
+      "verify": {
+        "tris": 2198,
+        "verts": 1101,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 6.987244166866757e-06,
+        "volume_positive": true,
+        "max_penetration_um": 2.8622937353617317e-11,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 14938
+      }
+    },
+    {
+      "link": "index_distal",
+      "visual_file": "meshes/index_distal.STL",
+      "collision_file": "meshes/collisions/index_distal.STL",
+      "visual_faces": 19016,
+      "visual_verts_welded": 9496,
+      "hull_input_verts": 4474,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 6904,
+      "collision_tris": 6904,
+      "reduction": 2.75,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        132.693,
+        0.0
+      ],
+      "volume_m3": 5.724507978623291e-06,
+      "stats": {
+        "verts": 3454,
+        "faces": 6904,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.4,
+      "verify": {
+        "tris": 6904,
+        "verts": 3454,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 5.724507978623291e-06,
+        "volume_positive": true,
+        "max_penetration_um": 3.736993353653517e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 19016
+      }
+    },
+    {
+      "link": "thumb_metacarpals_base2",
+      "visual_file": "meshes/thumb_metacarpals_base2.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals_base2.STL",
+      "visual_faces": 9650,
+      "visual_verts_welded": 4809,
+      "hull_input_verts": 2203,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 1048,
+      "collision_tris": 1048,
+      "reduction": 9.21,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        203.372,
+        0.0
+      ],
+      "volume_m3": 3.3784459790722627e-05,
+      "stats": {
+        "verts": 526,
+        "faces": 1048,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.26,
+      "verify": {
+        "tris": 1048,
+        "verts": 526,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 3.3784459790722627e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.938893903907228e-12,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 9650
+      }
+    },
+    {
+      "link": "thumb_metacarpals_base1",
+      "visual_file": "meshes/thumb_metacarpals_base1.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals_base1.STL",
+      "visual_faces": 5732,
+      "visual_verts_welded": 2860,
+      "hull_input_verts": 1506,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 812,
+      "collision_tris": 812,
+      "reduction": 7.06,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        207.127,
+        0.0
+      ],
+      "volume_m3": 1.3373172574225969e-05,
+      "stats": {
+        "verts": 408,
+        "faces": 812,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.2,
+      "verify": {
+        "tris": 812,
+        "verts": 408,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.3373172574225969e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.938893903907228e-12,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 5732
+      }
+    },
+    {
+      "link": "thumb_metacarpals",
+      "visual_file": "meshes/thumb_metacarpals.STL",
+      "collision_file": "meshes/collisions/thumb_metacarpals.STL",
+      "visual_faces": 20932,
+      "visual_verts_welded": 10383,
+      "hull_input_verts": 5725,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 7330,
+      "collision_tris": 7330,
+      "reduction": 2.86,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        272.978,
+        0.0
+      ],
+      "volume_m3": 5.427897021194054e-05,
+      "stats": {
+        "verts": 3667,
+        "faces": 7330,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.6,
+      "verify": {
+        "tris": 7330,
+        "verts": 3667,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 1.3877787807814457e-11,
+        "volume_m3": 5.427897021194054e-05,
+        "volume_positive": true,
+        "max_penetration_um": 1.3877787807814457e-11,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 20932
+      }
+    },
+    {
+      "link": "thumb_proximal",
+      "visual_file": "meshes/thumb_proximal.STL",
+      "collision_file": "meshes/collisions/thumb_proximal.STL",
+      "visual_faces": 13530,
+      "visual_verts_welded": 6701,
+      "hull_input_verts": 3627,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 4196,
+      "collision_tris": 4196,
+      "reduction": 3.22,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        131.336,
+        0.0
+      ],
+      "volume_m3": 1.2892787985715208e-05,
+      "stats": {
+        "verts": 2100,
+        "faces": 4196,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 0.8,
+      "verify": {
+        "tris": 4196,
+        "verts": 2100,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 1.2892787985715208e-05,
+        "volume_positive": true,
+        "max_penetration_um": 6.938893903907228e-12,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 13530
+      }
+    },
+    {
+      "link": "thumb_distal",
+      "visual_file": "meshes/thumb_distal.STL",
+      "collision_file": "meshes/collisions/thumb_distal.STL",
+      "visual_faces": 22393,
+      "visual_verts_welded": 11078,
+      "hull_input_verts": 5512,
+      "degenerate_hull_facets": 0,
+      "coarse_info": null,
+      "hull_facets": 7982,
+      "collision_tris": 7982,
+      "reduction": 2.81,
+      "inflation_iters": 1,
+      "violation_trace_um": [
+        124.277,
+        0.0
+      ],
+      "volume_m3": 8.565640819565953e-06,
+      "stats": {
+        "verts": 3993,
+        "faces": 7982,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1
+      },
+      "secs": 1.67,
+      "verify": {
+        "tris": 7982,
+        "verts": 3993,
+        "watertight": true,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "convex": true,
+        "convex_violation_um": 6.938893903907228e-12,
+        "volume_m3": 8.565640819565953e-06,
+        "volume_positive": true,
+        "max_penetration_um": 1.6572593991570628e-07,
+        "contains_visual": true,
+        "bbox_excess_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_deficit_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_contains_visual": true,
+        "visual_faces_before": 22393
+      }
+    }
+  ],
+  "problems": [],
+  "totals": {
+    "visual_faces": 321173,
+    "collision_tris": 67474,
+    "reduction": 4.76
+  },
+  "total_secs": 24.11
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "link": "linkerhand_l20_root",
+    "visual": null,
+    "collision": null
+  },
+  {
+    "link": "root_link",
+    "visual": null,
+    "collision": null
+  },
+  {
+    "link": "hand_base_link",
+    "visual": {
+      "filename": "meshes/hand_base_link.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/hand_base_link.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "pinky_metacarpals",
+    "visual": {
+      "filename": "meshes/pinky_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/pinky_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "pinky_proximal",
+    "visual": {
+      "filename": "meshes/pinky_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/pinky_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "pinky_middle",
+    "visual": {
+      "filename": "meshes/pinky_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/pinky_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "pinky_distal",
+    "visual": {
+      "filename": "meshes/pinky_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/pinky_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "ring_metacarpals",
+    "visual": {
+      "filename": "meshes/ring_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/ring_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "ring_proximal",
+    "visual": {
+      "filename": "meshes/ring_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/ring_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "ring_middle",
+    "visual": {
+      "filename": "meshes/ring_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/ring_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "ring_distal",
+    "visual": {
+      "filename": "meshes/ring_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/ring_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "middle_metacarpals",
+    "visual": {
+      "filename": "meshes/middle_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/middle_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "middle_proximal",
+    "visual": {
+      "filename": "meshes/middle_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/middle_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "middle_middle",
+    "visual": {
+      "filename": "meshes/middle_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/middle_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "middle_distal",
+    "visual": {
+      "filename": "meshes/middle_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/middle_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "index_metacarpals",
+    "visual": {
+      "filename": "meshes/index_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/index_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "index_proximal",
+    "visual": {
+      "filename": "meshes/index_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/index_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "index_middle",
+    "visual": {
+      "filename": "meshes/index_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/index_middle.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "index_distal",
+    "visual": {
+      "filename": "meshes/index_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/index_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "thumb_metacarpals_base2",
+    "visual": {
+      "filename": "meshes/thumb_metacarpals_base2.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/thumb_metacarpals_base2.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "thumb_metacarpals_base1",
+    "visual": {
+      "filename": "meshes/thumb_metacarpals_base1.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/thumb_metacarpals_base1.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "thumb_metacarpals",
+    "visual": {
+      "filename": "meshes/thumb_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/thumb_metacarpals.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "thumb_proximal",
+    "visual": {
+      "filename": "meshes/thumb_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/thumb_proximal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  },
+  {
+    "link": "thumb_distal",
+    "visual": {
+      "filename": "meshes/thumb_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    },
+    "collision": {
+      "filename": "meshes/collisions/thumb_distal.STL",
+      "scale": "1 1 1",
+      "xyz": "0 0 0",
+      "rpy": "0 0 0"
+    }
+  }
+]

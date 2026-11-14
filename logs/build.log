@@ -1,0 +1,127 @@
+[info] blender    5.1.2
+[info] urdf       /home/chenyc/codes/linkerhand_l20/linkerhand_l20.urdf
+[info] grid       1.0 mm (voxel-thinned)
+[info] margin     1.0 um
+[info] mode       exact
+[info] out-dir    (URDF collision paths)
+Info: File exported successfully
+[ok] hand_base_link           tris  3854 (vis  42908,   11.1x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.37s)
+Info: File exported successfully
+[ok] pinky_metacarpals        tris   444 (vis   1414,    3.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.12s)
+00:02.139  io.stl           | WARNING Removed 9 duplicate triangles during import
+Info: File exported successfully
+[ok] pinky_proximal           tris  1022 (vis  16136,   15.8x) iters 15 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.51s)
+Info: File exported successfully
+[ok] pinky_middle             tris  2184 (vis  14938,    6.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.43s)
+Info: File exported successfully
+[ok] pinky_distal             tris  6904 (vis  19016,    2.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.41s)
+Info: File exported successfully
+[ok] ring_metacarpals         tris   444 (vis   1414,    3.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.11s)
+00:06.261  io.stl           | WARNING Removed 9 duplicate triangles during import
+Info: File exported successfully
+[ok] ring_proximal            tris  1024 (vis  16136,   15.8x) iters 15 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.5s)
+Info: File exported successfully
+[ok] ring_middle              tris  2192 (vis  14940,    6.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.41s)
+Info: File exported successfully
+[ok] ring_distal              tris  6904 (vis  19016,    2.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.38s)
+Info: File exported successfully
+[ok] middle_metacarpals       tris   444 (vis   1414,    3.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.11s)
+00:10.343  io.stl           | WARNING Removed 9 duplicate triangles during import
+Info: File exported successfully
+[ok] middle_proximal          tris  1024 (vis  16142,   15.8x) iters 15 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.53s)
+Info: File exported successfully
+[ok] middle_middle            tris  2190 (vis  14938,    6.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.42s)
+Info: File exported successfully
+[ok] middle_distal            tris  6902 (vis  19016,    2.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.38s)
+Info: File exported successfully
+[ok] index_metacarpals        tris   444 (vis   1414,    3.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.12s)
+00:14.448  io.stl           | WARNING Removed 9 duplicate triangles during import
+Info: File exported successfully
+[ok] index_proximal           tris  1028 (vis  16140,   15.7x) iters 15 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.5s)
+Info: File exported successfully
+[ok] index_middle             tris  2198 (vis  14938,    6.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.43s)
+Info: File exported successfully
+[ok] index_distal             tris  6904 (vis  19016,    2.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.4s)
+Info: File exported successfully
+[ok] thumb_metacarpals_base2  tris  1048 (vis   9650,    9.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.26s)
+Info: File exported successfully
+[ok] thumb_metacarpals_base1  tris   812 (vis   5732,    7.1x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.2s)
+Info: File exported successfully
+[ok] thumb_metacarpals        tris  7330 (vis  20932,    2.9x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.6s)
+Info: File exported successfully
+[ok] thumb_proximal           tris  4196 (vis  13530,    3.2x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (0.8s)
+00:22.090  io.stl           | WARNING Removed 21 duplicate triangles during import
+Info: File exported successfully
+[ok] thumb_distal             tris  7982 (vis  22393,    2.8x) iters  1 pen   0.000um wt True comps 1 bbox+ [0.0, 0.0, 0.0] (1.67s)
+[info] total faces 321173 -> 67474 (4.76x), 0 problem(s), 24.11s
+[info] report -> logs/collision_build.json
+DONE
+Blender 5.1.2 (hash ec6e62d40fa9 built 2026-05-19 02:18:37)
+Timer 'STL Import' took 6.38 ms
+Timer 'STL Export' took 0.36 ms
+Timer 'STL Import' took 0.81 ms
+Timer 'STL Import' took 0.42 ms
+Timer 'STL Export' took 0.17 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 2.62 ms
+Timer 'STL Export' took 0.16 ms
+Timer 'STL Import' took 0.35 ms
+Timer 'STL Import' took 2.18 ms
+Timer 'STL Export' took 0.24 ms
+Timer 'STL Import' took 0.48 ms
+Timer 'STL Import' took 2.37 ms
+Timer 'STL Export' took 0.58 ms
+Timer 'STL Import' took 1.24 ms
+Timer 'STL Import' took 0.41 ms
+Timer 'STL Export' took 0.11 ms
+Timer 'STL Import' took 0.21 ms
+Timer 'STL Import' took 2.30 ms
+Timer 'STL Export' took 0.16 ms
+Timer 'STL Import' took 0.35 ms
+Timer 'STL Import' took 2.19 ms
+Timer 'STL Export' took 0.23 ms
+Timer 'STL Import' took 0.77 ms
+Timer 'STL Import' took 2.52 ms
+Timer 'STL Export' took 0.60 ms
+Timer 'STL Import' took 1.14 ms
+Timer 'STL Import' took 0.41 ms
+Timer 'STL Export' took 0.11 ms
+Timer 'STL Import' took 0.18 ms
+Timer 'STL Import' took 2.40 ms
+Timer 'STL Export' took 0.17 ms
+Timer 'STL Import' took 0.38 ms
+Timer 'STL Import' took 2.58 ms
+Timer 'STL Export' took 0.25 ms
+Timer 'STL Import' took 0.48 ms
+Timer 'STL Import' took 2.56 ms
+Timer 'STL Export' took 0.54 ms
+Timer 'STL Import' took 1.13 ms
+Timer 'STL Import' took 0.40 ms
+Timer 'STL Export' took 0.10 ms
+Timer 'STL Import' took 0.17 ms
+Timer 'STL Import' took 2.35 ms
+Timer 'STL Export' took 0.20 ms
+Timer 'STL Import' took 0.39 ms
+Timer 'STL Import' took 2.59 ms
+Timer 'STL Export' took 0.25 ms
+Timer 'STL Import' took 0.53 ms
+Timer 'STL Import' took 3.06 ms
+Timer 'STL Export' took 0.52 ms
+Timer 'STL Import' took 1.22 ms
+Timer 'STL Import' took 1.43 ms
+Timer 'STL Export' took 0.15 ms
+Timer 'STL Import' took 0.40 ms
+Timer 'STL Import' took 0.97 ms
+Timer 'STL Export' took 0.14 ms
+Timer 'STL Import' took 0.24 ms
+Timer 'STL Import' took 2.70 ms
+Timer 'STL Export' took 0.57 ms
+Timer 'STL Import' took 1.26 ms
+Timer 'STL Import' took 2.16 ms
+Timer 'STL Export' took 1.84 ms
+Timer 'STL Import' took 0.82 ms
+Timer 'STL Import' took 3.43 ms
+Timer 'STL Export' took 0.57 ms
+Timer 'STL Import' took 1.32 ms
+
+Blender quit
